@@ -1,5 +1,9 @@
 # mz
 
+## is_current
+
+_Please write me_
+
 ## is_funky
 
 * `-1` is unknown, or TBD (needs the love and care of a human)
