@@ -2,7 +2,7 @@
 
 ## is_current
 
-_Please write me_
+This is a "helper" property to wrap up / hide the semantics of whether something is "open" or "existing". For example, a venue that is no longer in operation or a country (like Yugoslavia) that has dissolved in to smaller nations.
 
 ## is_funky
 
