@@ -1,5 +1,9 @@
 # mz
 
+## is_approximate
+
+This means that the geometry for this record is approximate in nature and probably derived from one of its ancestors. Technically the geometry may be incorrect but the rule of thumb is that it is still less-incorrect than no geometry or "spanning the entire globe".
+
 ## is_current
 
 This is a "helper" property to wrap up / hide the semantics of whether something is "open" or "existing". For example, a venue that is no longer in operation or a country (like Yugoslavia) that has dissolved in to smaller nations.
