@@ -1,6 +1,6 @@
 # whosonfirst-properties
 
-THIS IS A WORK IN PROGRESS AND INCOMPLETE.
+What things mean in Who's On First documents
 
 ## See also
 
