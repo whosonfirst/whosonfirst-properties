@@ -4,7 +4,11 @@
 
 ## belongsto
 
+The (unique) set of all ancestors, as an array (list) of WOF IDs.
+
 ## breaches
+
+Records of the same placetype that intersect the current record, as an array (list) of WOF IDs.
 
 ## concordances
 
@@ -28,7 +32,7 @@ The record's numeric integer identifier.
 
 ## lang
 
-A [RFC3066](http://www.i18nguy.com/unicode/language-identifiers.html) language identifier.
+An [RFC3066](http://www.i18nguy.com/unicode/language-identifiers.html) language identifier.
 
 ## created
 
