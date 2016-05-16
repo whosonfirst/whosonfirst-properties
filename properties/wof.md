@@ -32,7 +32,15 @@ The record's numeric integer identifier.
 
 ## lang
 
-An [RFC3066](http://www.i18nguy.com/unicode/language-identifiers.html) language identifier.
+One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the common, or preferred, languages spoken in the location of the corresponding WOF record.
+
+## lang_x_official
+
+One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the officially recognized languages of the location of the corresponding WOF record.
+
+## lang_x_spoken
+
+One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the languages, inclusive of official languages, spoken in the location of the corresponding WOF record.
 
 ## created
 
