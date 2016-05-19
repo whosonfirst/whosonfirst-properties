@@ -5,7 +5,7 @@
 WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
 
-archive: all
+archive:
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./properties ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
