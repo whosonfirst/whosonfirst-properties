@@ -14,6 +14,10 @@ Records of the same placetype that intersect the current record, as an array (li
 
 A hash containing identifiers from other data sources. See also: [other people's concordances](https://github.com/whosonfirst/tools-other-peoples-concordances)
 
+## coterminous
+
+Links two or more records with overlapping or identical geometries that serve separate functions, but are essentially the same "place" - see [Cuidad de México](https://whosonfirst.mapzen.com/spelunker/id/85686515/#9/19.3228/-99.1530). Think "city-state".
+
 ## country
 
 A two-letter country code from ISO 3166.
