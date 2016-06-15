@@ -34,6 +34,12 @@ See also: http://wiki.openstreetmap.org/wiki/Map_Features#Addresses
 
 ## state
 
+## phone
+
 ## website
 
 ## twitter
+
+## facebook
+
+## github
