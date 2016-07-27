@@ -20,6 +20,11 @@ Things like historic districts or similar with fixed, undisputed boundaries.
 
 ## is_landuse_aoi
 
+This is used to signify an area of interest. Labelling is supressed if a value of '1' is given.
+
+* `0` is false
+* `1` is true
+
 ## is_official
 
 Is this considered "official" by someone or something you pay taxes to?
