@@ -40,7 +40,6 @@
 	"province": "sg:province",
 	"tags": "sg:tags",
 	"label": "wof:label",
-
 	"edtf_cessa": "edtf:cessation",
 	"edtf_incep": "edtf:inception",
 	"geom_area": "geom:area",
@@ -63,6 +62,8 @@
 	"name_dan_x": "name:dan_x_variant",
 	"name_dut_x": "name:dut_x_preferred",
 	"name_dut_1": "name:dut_x_variant",
+	"eng_preferred_name": "name:eng_x_preferred",
+	"eng_variant_name": "name:eng_x_variant",
 	"name_eng_x": "name:eng_x_preferred",
 	"name_eng_1": "name:eng_x_unknown",
 	"name_eng_2": "name:eng_x_variant",
