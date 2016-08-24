@@ -18,6 +18,9 @@ This is a "helper" property to wrap up / hide the semantics of whether something
 
 Things like historic districts or similar with fixed, undisputed boundaries.
 
+* `0` is false
+* `1` is true
+
 ## is_landuse_aoi
 
 This is used to signify an area of interest. Labelling is supressed if a value of '1' is given.
@@ -29,9 +32,16 @@ This is used to signify an area of interest. Labelling is supressed if a value o
 
 Is this considered "official" by someone or something you pay taxes to?
 
+* `0` is false
+* `1` is true
+
 ## max_zoom
 
+Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.
+
 ## min_zoom
+
+Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.
 
 ## tier_local
 
