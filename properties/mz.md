@@ -8,6 +8,11 @@ This means that the geometry for this record is approximate in nature and probab
 
 This is a "helper" property to wrap up / hide the semantics of whether something is "open" or "existing". For example, a venue that is no longer in operation or a country (like Yugoslavia) that has dissolved in to smaller nations.
 
+* `0` signifies a non-current record
+* `1` signifies a current record
+
+Therefore, any record with a date in the `edtf:cessation` or `edtf:deprecated` fields _should_ have a `mz:is_current` field value of `0`.
+
 ## is_funky
 
 * `-1` is unknown, or TBD (needs the love and care of a human)
