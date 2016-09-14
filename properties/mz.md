@@ -1,5 +1,23 @@
 # mz
 
+## hours
+
+A simplified encoding of a venue's hours of operation. This is not designed to capture every edge case or exception, just daily hours with open/close times. The value is encoded as a dictionary with three-letter day abbreviations (`sun`, `mon`, `tue`, etc.) as keys. Each day value is a dictionary with `open` and `close` keys, and values are composed of 24-hour format time like `09:30` or `16:45`.
+
+#### Example:
+```
+"mz:hours": {
+	"mon": {
+		"open": "07:30",
+		"close": "19:00"
+	},
+	"tue": {
+		"open": "08:30",
+		"close": "22:00"
+	}
+}
+```
+
 ## is_approximate
 
 This means that the geometry for this record is approximate in nature and probably derived from one of its ancestors. Technically the geometry may be incorrect but the rule of thumb is that it is still less-incorrect than no geometry or "spanning the entire globe".
