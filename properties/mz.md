@@ -2,7 +2,7 @@
 
 ## hours
 
-A simplified encoding of a venue's hours of operation. This is not designed to capture every edge case or exception, just daily hours with open/close times. The value is encoded as a dictionary with three-letter day abbreviations (`sun`, `mon`, `tue`, etc.) as keys. Each day value is a dictionary with `open` and `close` keys, and values are composed of 24-hour format time like `09:30` or `16:45`.
+A simplified encoding of a venue's hours of operation. This is not designed to capture every edge case or exception, just daily hours with open/close times. The value is encoded as a dictionary with three-letter day abbreviations (`sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) as keys. Each day value is a dictionary with `open` and `close` keys, and values are composed of 24-hour format time like `09:30` or `16:45`.
 
 #### Example:
 ```
