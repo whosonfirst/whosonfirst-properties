@@ -55,6 +55,7 @@
 	"mz_is_land": "mz:is_landuse_aoi",
 	"mz_max_zoo": "mz:max_zoom",
 	"mz_min_zoo": "mz:min_zoom",
+	"mz_note": "mz:note",
 	"name_chi_x": "name:chi_x_preferred",
 	"name_chi_1": "name:chi_x_variant",
 	"name_cze_x": "name:cze_x_preferred",
