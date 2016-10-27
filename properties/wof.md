@@ -36,7 +36,9 @@ The record's numeric integer identifier.
 
 ## lang
 
-One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the common, or preferred, languages spoken in the location of the corresponding WOF record.
+An [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the common, or preferred, languages spoken in the location of the corresponding WOF record.
+
+**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records.
 
 ## lang_x_official
 
