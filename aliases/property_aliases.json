@@ -187,5 +187,17 @@
 	"wof_placet": "wof:placetype",
 	"wof_supers": "wof:superseded_by",
 	"wof_supe_1": "wof:supersedes",
-	"wof_tags": "wof:tags"
+	"wof_tags": "wof:tags",
+	"census_ala": "census:aland",
+	"census_awa": "census:awater",
+	"census_cd1": "census:cd115fp",
+	"census_cds": "census:cdsessn",
+	"census_fun": "census:funcstat",
+	"census_geo": "census:geoid",
+	"census_int": "census:intptlat",
+	"census_i_1": "census:intptlon",
+	"census_lsa": "census:lsad",
+	"census_mtf": "census:mtfcc",
+	"census_nam": "census:namelsad",
+	"census_sta": "census:statefp"
 }
