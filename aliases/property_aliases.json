@@ -187,5 +187,17 @@
 	"wof_placet": "wof:placetype",
 	"wof_supers": "wof:superseded_by",
 	"wof_supe_1": "wof:supersedes",
-	"wof_tags": "wof:tags"
+	"wof_tags": "wof:tags",
+	"uscensus_a": "uscensus:aland",
+	"uscensus_1": "uscensus:awater",
+	"uscensus_c": "uscensus:cd115fp",
+	"uscensus_2": "uscensus:cdsessn",
+	"uscensus_f": "uscensus:funcstat",
+	"uscensus_g": "uscensus:geoid",
+	"uscensus_i": "uscensus:intptlat",
+	"uscensus_3": "uscensus:intptlon",
+	"uscensus_l": "uscensus:lsad",
+	"uscensus_m": "uscensus:mtfcc",
+	"uscensus_n": "uscensus:namelsad",
+	"uscensus_s": "uscensus:statefp"
 }
