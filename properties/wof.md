@@ -14,6 +14,17 @@ Records of the same placetype that intersect the current record, as an array (li
 
 A hash containing identifiers from other data sources. See also: [other people's concordances](https://github.com/whosonfirst/tools-other-peoples-concordances)
 
+## controlled
+
+A list of Who's On First properties that should be assumed to have been edited by an actual human and should not be updated by automated processes. For example:
+
+```
+    "wof:controlled":[
+        "wof:hierachy",
+        "wof:parent_id"
+    ]
+```
+
 ## coterminous
 
 Links two or more records with overlapping or identical geometries that serve separate functions, but are essentially the same "place" - see [Cuidad de México](https://whosonfirst.mapzen.com/spelunker/id/85686515/#9/19.3228/-99.1530). Think "city-state".
