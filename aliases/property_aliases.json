@@ -202,5 +202,7 @@
 	"uscensus_l": "uscensus:lsad",
 	"uscensus_m": "uscensus:mtfcc",
 	"uscensus_n": "uscensus:namelsad",
-	"uscensus_s": "uscensus:statefp"
+	"uscensus_s": "uscensus:statefp",
+	"fin_x_preferred": "name:fin_x_preferred",
+	"swe_x_preferred": "name:swe_x_preferred"
 }
