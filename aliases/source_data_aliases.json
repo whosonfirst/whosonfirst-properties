@@ -60,4 +60,14 @@
 	"pedia:boroughCode": "pedia:boroughCode",
 	"pedia:borough": "pedia:borough",
 	"pedia:@id": "pedia:@id"
+	"cbsnl:WK_CODE": "cbsnl:WK_CODE"
+	"cbsnl:WK_NAAM": "cbsnl:WK_NAAM"
+	"cbsnl:GM_CODE": "cbsnl:GM_CODE"
+	"cbsnl:GM_NAAM": "cbsnl:GM_NAAM"
+	"cbsnl:IND_WBI": "cbsnl:IND_WBI"
+	"cbsnl:WATER": "cbsnl:WATER"
+	"cbsnl:OAD": "cbsnl:OAD"
+	"cbsnl:STED": "cbsnl:STED"
+	"cbsnl:BU_CODE": "cbsnl:BU_CODE"
+	"cbsnl:BU_NAAM": "cbsnl:BU_NAAM"
 }
