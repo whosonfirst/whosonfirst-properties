@@ -18,6 +18,7 @@
 	"cessat": "edtf:cessation",
 	"deprecated": "edtf:deprecated",
 	"deprec": "edtf:deprecated",
+	"coterminous": "wof:coterminous",
 	"supersedes": "wof:supersedes",
 	"superseded_by": "wof:superseded_by",
 	"is_current": "mz:is_current",
