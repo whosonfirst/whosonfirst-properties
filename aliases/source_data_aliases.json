@@ -97,5 +97,8 @@
 	"cbsnl:OAD": "cbsnl:OAD",
 	"cbsnl:STED": "cbsnl:STED",
 	"cbsnl:BU_CODE": "cbsnl:BU_CODE",
-	"cbsnl:BU_NAAM": "cbsnl:BU_NAAM"
+	"cbsnl:BU_NAAM": "cbsnl:BU_NAAM",
+	"ssuberlin:gml_id": "ssuberlin:gml_id",
+	"ssuberlin:spatial_name": "ssuberlin:spatial_name",
+	"ssuberlin:spatial_alias": "ssuberlin:spatial_alias"
 }
