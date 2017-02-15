@@ -207,5 +207,5 @@
 	"fin_x_preferred": "name:fin_x_preferred",
 	"swe_x_preferred": "name:swe_x_preferred",
 	"rev_lat":"reversegeo:latitude",
-	"rev_geo":"reversegeo:longitude"
+	"rev_long":"reversegeo:longitude"
 }
