@@ -87,5 +87,18 @@
 	"atldpcd:GLOBALID": "atldpcd:GLOBALID",
 	"stpaulgov:district": "stpaulgov:district",
 	"stpaulgov:name2": "stpaulgov:name2",
-	"stpaulgov:name1": "stpaulgov:name1"
+	"stpaulgov:name1": "stpaulgov:name1",
+	"cbsnl:WK_CODE": "cbsnl:WK_CODE",
+	"cbsnl:WK_NAAM": "cbsnl:WK_NAAM",
+	"cbsnl:GM_CODE": "cbsnl:GM_CODE",
+	"cbsnl:GM_NAAM": "cbsnl:GM_NAAM",
+	"cbsnl:IND_WBI": "cbsnl:IND_WBI",
+	"cbsnl:WATER": "cbsnl:WATER",
+	"cbsnl:OAD": "cbsnl:OAD",
+	"cbsnl:STED": "cbsnl:STED",
+	"cbsnl:BU_CODE": "cbsnl:BU_CODE",
+	"cbsnl:BU_NAAM": "cbsnl:BU_NAAM",
+	"ssuberlin:gml_id": "ssuberlin:gml_id",
+	"ssuberlin:spatial_name": "ssuberlin:spatial_name",
+	"ssuberlin:spatial_alias": "ssuberlin:spatial_alias"
 }
