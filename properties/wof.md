@@ -33,6 +33,10 @@ Links two or more records with overlapping or identical geometries that serve se
 
 A two-letter country code from ISO 3166.
 
+## created
+
+A Unix epoch timestamp integer.
+
 ## geomhash
 
 An MD5 string of the geometry JSON.
@@ -43,7 +47,7 @@ A list of hashes, where each object is the list of ancestors.
 
 ## id
 
-The record's numeric integer identifier.
+The record's unique numeric integer identifier.
 
 ## lang
 
@@ -58,10 +62,6 @@ One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html
 ## lang_x_spoken
 
 One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html) language identifiers. These represent the languages, inclusive of official languages, spoken in the location of the corresponding WOF record.
-
-## created
-
-A Unix epoch timestamp integer.
 
 ## lastmodified
 

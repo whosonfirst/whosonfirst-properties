@@ -1,9 +1,23 @@
 # name
 
-See also [whosonfirst-names](https://github.com/whosonfirst/whosonfirst-names)
+See also: [whosonfirst-names](https://github.com/whosonfirst/whosonfirst-names).
 
-## cze_x_colloquial
+## {lang}_x_colloquial
+The colloquial, informal name for a place.
 
-## cze_x_preferred
+_Example: eng_x_colloquial_
+ 
+## {lang}_x_preferred
+The "preferred" name for a place. Used in Pelias and to generate language-specific map labels.
 
-## cze_x_variant
+_Example: kor_x_preferred_
+
+## {lang}_x_unknown
+An unclassified or uncommon name used for a place.
+
+_Example: nep_x_unknown_
+
+## {lang}_x_variant
+A "variant" name used for a place. Used in Pelias and to generate language-specific map labels.
+
+_Example: ger_x_variant_
