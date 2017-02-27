@@ -208,5 +208,6 @@
 	"swe_x_preferred": "name:swe_x_preferred",
 	"rev_lat":"reversegeo:latitude",
 	"rev_long":"reversegeo:longitude",
-	"controlled":"wof:controlled"
+	"controlled":"wof:controlled",
+	"geom_id":"mz:geom_id"
 }
