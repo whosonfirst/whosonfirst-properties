@@ -2,6 +2,15 @@
 
 ## hierarchy_label
 
+Used when generating place labels for Pelias; this property defaults to True unless it is set to `0` manually. When Pelias decorates an address string, the `hierarhcy_label` field is used to determine what is included in that address string. Examples below:
+
+If the record for Noe Valley had a `hierarchy_label` property equal to `0`, a returned address would look like the following:
+
+_29th St, San Francisco, California, United States_
+
+If the record for Noe Valley had a `hierarchy_label` property equal to `1`, a returned address would look like the following:
+
+_29th St, Noe Valley, San Francisco, California, United States_
 
 ## hours
 
