@@ -1,7 +1,7 @@
 # src
 
 ## geom
-The data source of a record's geometry. This field value is stored in the [`whosonfirst-sources`](https://github.com/whosonfirst/whosonfirst-sources/tree/master/sources) repository.
+The data source of a record's geometry. Valid property values are listed in the [`whosonfirst-sources`](https://github.com/whosonfirst/whosonfirst-sources/tree/master/sources) repository.
 
 _Example: `"src:geom":"quattroshapes"`_
 
