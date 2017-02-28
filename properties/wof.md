@@ -35,11 +35,11 @@ A two-letter country code from ISO 3166.
 
 ## created
 
-A Unix epoch timestamp integer.
+An auto-generated, non-editable Unix epoch timestamp integer.
 
 ## geomhash
 
-An MD5 string of the geometry JSON.
+An auto-generated, non-editable MD5 string of the geometry JSON.
 
 ## hierarchy
 
@@ -47,7 +47,7 @@ A list of hashes, where each object is the list of ancestors.
 
 ## id
 
-The record's unique numeric integer identifier.
+The record's unique numeric integer identifier that are typically derived from [Brooklyn Integers](https://www.brooklynintegers.com).
 
 ## lang
 

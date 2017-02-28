@@ -13,11 +13,11 @@ The "preferred" name for a place. Used in Pelias and to generate language-specif
 _Example: kor_x_preferred_
 
 ## {lang}_x_unknown
-An unclassified or uncommon name used for a place.
+An unclassified name used for a place.
 
 _Example: nep_x_unknown_
 
 ## {lang}_x_variant
-A "variant" name used for a place. Used in Pelias and to generate language-specific map labels.
+An uncommon "variant" name used for a place. Used in Pelias and to generate language-specific map labels.
 
 _Example: ger_x_variant_
