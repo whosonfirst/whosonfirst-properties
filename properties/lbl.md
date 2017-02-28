@@ -8,7 +8,7 @@ The coordinate that specifies a label's north–south position. Latitude is a de
 The coordinate that specifies a label's east-west position. Longitude is a decimal number between _-180.0_ and _180.0_.
 
 ## bbox
-Differs from the `geom:bbox`; the `lbl:bbox` is the bounding box area used purely for map labelling and search purposes, and is usually smaller than the `geom:bbox`.
+The `lbl:bbox` is the bounding box area used purely for map labelling and search purposes, and is usually smaller than the `geom:bbox`.
 
 The `lbl:bbox` is human-generated (not derived from Mapshaper).
 

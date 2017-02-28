@@ -18,6 +18,6 @@ An unclassified name used for a place.
 _Example: nep_x_unknown_
 
 ## {lang}_x_variant
-An uncommon "variant" name used for a place. Used in Pelias and to generate language-specific map labels.
+An uncommon "variant" name used for a place. Used in mapping and geocoding software and to generate language-specific map labels.
 
 _Example: ger_x_variant_
