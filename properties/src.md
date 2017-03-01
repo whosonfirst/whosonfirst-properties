@@ -13,4 +13,6 @@ _Example: `"src:geom_alt":"naturalearth"`_
 ## lbl
 The source of a record's `lbl` properties. Valid property values are generally derived from [`mapshaper`](https://github.com/mbloch/mapshaper) and is also listed in the [`whosonfirst-sources`](https://github.com/whosonfirst/whosonfirst-sources/tree/master/sources) repository.
 
-_Example: `"src:lbl":"mapshaper"`_
+Other iterations of the `lbl` property can include `lbl:centroid` and `centroid_lbl`; these properties are specific to the label centroid of a given feature.
+
+_Example: `"src:lbl":"mapshaper"`_ or `"src:lbl:centroid":"mapshaper"`
