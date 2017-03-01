@@ -1,5 +1,17 @@
 # mz
 
+## hierarchy_label
+
+Used when generating place labels in geocoding software, like [Pelias](https://github.com/pelias/pelias); this property defaults to True unless it is set to `0` manually. When Pelias decorates an address string, the `hierarchy_label` property is used to determine what is included in that address string. Examples below:
+
+If the record for Noe Valley had a `hierarchy_label` property equal to `1` (or was not specified), a returned address would look like the following:
+
+_29th St, San Francisco, California, United States_
+
+If the record for Noe Valley had a `hierarchy_label` property equal to `1`, a returned address would look like the following:
+
+_29th St, Noe Valley, San Francisco, California, United States_
+
 ## hours
 
 A simplified encoding of a venue's hours of operation. This is not designed to capture every edge case or exception, just daily hours with open/close times. The value is encoded as a dictionary with three-letter day abbreviations (`sun`, `mon`, `tue`, `wed`, `thu`, `fri`, `sat`) as keys. Each day value is a dictionary with `open` and `close` keys, and values are composed of 24-hour format time like `09:30` or `16:45`.
@@ -37,7 +49,7 @@ Therefore, any record with a date in the `edtf:cessation` or `edtf:deprecated` f
 * `0` is false
 * `1` is true
 
-## is_hard
+## is_hard_boundary
 
 Things like historic districts or similar with fixed, undisputed boundaries.
 
