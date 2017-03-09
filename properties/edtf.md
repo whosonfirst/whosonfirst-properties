@@ -18,4 +18,10 @@ Indicates the date when a place was first created.
 
 Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF syntax).
 
+## superseded
+
+Indicates the date when a record was superseded.
+
+Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF syntax).
+
 _**See also:** https://github.com/whosonfirst/whosonfirst-dates_
