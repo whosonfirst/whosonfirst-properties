@@ -19,6 +19,7 @@
 	"deprecated": "edtf:deprecated",
 	"deprec": "edtf:deprecated",
 	"coterminous": "wof:coterminous",
+	"placetype_alt": "wof:placetype_alt",
 	"supersedes": "wof:supersedes",
 	"superseded_by": "wof:superseded_by",
 	"is_current": "mz:is_current",
