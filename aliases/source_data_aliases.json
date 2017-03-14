@@ -33,6 +33,8 @@
 	"tkugov:ID": "tkugov:ID",
 	"tkugov:NIMI": "tkugov:NIMI",
 	"tkugov:PIENALUE": "tkugov:PIENALUE",
+	"torsdfa:AREA_S_CD": "torsdfa:AREA_S_CD",
+	"torsdfa:AREA_NAME": "torsdfa:AREA_NAME",
 	"denvercpd:NBHD_ID": "denvercpd:NBHD_ID",
 	"denvercpd:NBHD_NAME": "denvercpd:NBHD_NAME",
 	"zolk:Name": "zolk:Name",
