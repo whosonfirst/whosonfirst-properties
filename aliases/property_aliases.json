@@ -12,6 +12,7 @@
 	"lbl_lat": "lbl:latitude",
 	"lbl_longitude": "lbl:longitude",
 	"lbl_long": "lbl:longitude",
+	"lbl_lng": "lbl:longitude",
 	"inception": "edtf:inception",
 	"incept": "edtf:inception",
 	"cessation": "edtf:cessation",
@@ -52,6 +53,7 @@
 	"geom_latit": "geom:latitude",
 	"geom_longi": "geom:longitude",
 	"iso_countr": "iso:country",
+	"iso_count": "iso:country",
 	"lbl_latitu": "lbl:latitude",
 	"lbl_longit": "lbl:longitude",
 	"mps_latitu": "mps:latitude",
@@ -61,6 +63,7 @@
 	"mz_max_zoo": "mz:max_zoom",
 	"mz_min_zoo": "mz:min_zoom",
 	"mz_note": "mz:note",
+	"note": "mz:note",
 	"name_chi_x": "name:chi_x_preferred",
 	"name_chi_1": "name:chi_x_variant",
 	"name_cze_x": "name:cze_x_preferred",
@@ -210,5 +213,9 @@
 	"rev_lat":"reversegeo:latitude",
 	"rev_long":"reversegeo:longitude",
 	"controlled":"wof:controlled",
-	"geom_id":"mz:geom_id"
+	"geom_id":"mz:geom_id",
+	"mz_is_offi":"mz:is_official",
+	"mz_is_hard":"mz:is_hard_boundary",
+	"tier_metro":"mz:tier_metro",
+	"wof_loc_id":"wof:locality_id"
 }
