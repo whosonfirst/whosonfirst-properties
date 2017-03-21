@@ -73,7 +73,12 @@ An English UTF-7 transliterated representation of the name. See also: [whosonfir
 
 ## parent_id
 
-An integer WOF ID of the direct parent record.
+An integer WOF ID of the direct parent record. If a record has more than one parent, the following values should be used:
+
+- **1** (unknown parent, record needs review)
+- **2** (shrug, this feature is complicated)
+- **3** (contested, but not disputed.. used for placetypes below the locality level)
+- **4** (multiple "legal" parents.. used for placetypes at the locality level or above)
 
 ## placetype
 
