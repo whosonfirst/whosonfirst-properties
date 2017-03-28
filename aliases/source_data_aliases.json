@@ -132,6 +132,8 @@
 	"uscensus_m": "uscensus:mtfcc",
 	"uscensus_n": "uscensus:namelsad",
 	"uscensus_s": "uscensus:statefp",
+	"vanpds:MAPID": "vanpds:MAPID",
+	"vanpds:NAME": "vanpds:NAME",
 	"wapo:subhood": "wapo:subhood",
 	"wapo:quadrant": "wapo:quadrant",
 	"zolk:Name": "zolk:Name",
