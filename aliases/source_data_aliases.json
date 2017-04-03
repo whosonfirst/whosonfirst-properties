@@ -48,6 +48,8 @@
 	"can-dnvgov:MET_TECH": "can-dnvgov:MET_TECH",
 	"can-dnvgov:MET_TECH_R": "can-dnvgov:MET_TECH_R",
 	"can-dnvgov:GLOBALID": "can-dnvgov:GLOBALID",
+	"can-nwds:NEIGHNUM": "can-nwds:NEIGHNUM",
+	"can-nwds:NEIGH_NAME": "can-nwds:NEIGH_NAME",
 	"cbsnl:WK_CODE": "cbsnl:WK_CODE",
 	"cbsnl:WK_NAAM": "cbsnl:WK_NAAM",
 	"cbsnl:GM_CODE": "cbsnl:GM_CODE",
