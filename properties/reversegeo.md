@@ -15,4 +15,4 @@ The property value points to a polygon source, which is typically stored in an a
 
 The `reversegeo:polygon` value is represented as **source** in the following filename example:
 
-	`85922583-alt-**source**-extras.geojson`
+	85922583-alt-**source**-extras.geojson
