@@ -10,9 +10,8 @@ Typically derived from [mapshaper](https://www.mapshaper.org/), `reversegeo:long
 
 ## polygon
 
-This property (string value) indicates which polygon geometry to use when reverse geocoding a record.
-The property value points to a polygon source, which is typically stored in an alt-geometry record. 
+This property (string value) indicates which geometry to use when using this feature for point-in-polygon reverse geocoding tasks. The property value points to a polygon source, which is typically stored in an alt-geometry file.
 
-The `reversegeo:polygon` value is represented as **source** in the following filename example:
+The `reversegeo:polygon` value is represented as `{source}` in the following filename example:
 
-	85922583-alt-**source**-extras.geojson
+    85922583-alt-{source}-extras.geojson
