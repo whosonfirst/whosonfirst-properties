@@ -80,6 +80,30 @@ An integer WOF ID of the direct parent record. If a record has more than one par
 - **-3** (contested, but not disputed.. used for placetypes below the locality level)
 - **-4** (multiple "legal" parents.. used for placetypes at the locality level or above)
 
+## population
+
+An integer value to represent the most current, known population of a place.
+
+## population_rank
+
+An aggregated integer, 0 to 14, where the values represent he following ranges:
+
+    14: 10m+
+    13: 5m to 10m
+    12: 1m to 5m
+    11: 500k to 1m
+    10: 200k to 500k
+    9: 100k to 200k
+    8: 50k to 100k
+    7: 20k to 50k
+    6: 10k to 20k
+    5: 5k to 10k
+    4: 2k to 5k
+    3: 1k to 2k
+    2: 200 to 1k
+    1: Less than 200
+    0: locale (no population) / places that only are visible at 50k scale or larger (but not neighbourhoods)
+
 ## placetype
 
 A string [placetype](https://github.com/whosonfirst/whosonfirst-placetypes).
