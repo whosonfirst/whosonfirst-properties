@@ -82,11 +82,11 @@ An integer WOF ID of the direct parent record. If a record has more than one par
 
 ## population
 
-An integer value to represent the most current, known population of a place.
+An integer value to represent the most current, known population of a place. (related: `src:population`)
 
 ## population_rank
 
-An aggregated integer, 0 to 14, where the values represent he following ranges:
+An aggregated integer, 0 to 14, where the values represent the following ranges:
 
     14: 10m+
     13: 5m to 10m
