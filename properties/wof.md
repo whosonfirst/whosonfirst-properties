@@ -112,6 +112,10 @@ A string [placetype](https://github.com/whosonfirst/whosonfirst-placetypes).
 
 A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placetypes) denoting alternate representations of a place. For details please consult [whosonfirst-data issue #538](https://github.com/whosonfirst-data/whosonfirst-data/issues/538).
 
+## placetype_local
+
+What locals consider the placetype to be (string value).
+
 ## superseded_by
 
 An array (a list) of WOF IDs that have superseded the WOF record.
