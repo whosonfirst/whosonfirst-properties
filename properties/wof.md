@@ -116,6 +116,10 @@ A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placety
 
 What locals consider the placetype to be (string value).
 
+## statistical_gore
+
+An optional boolean value that, when true, represents an “area” of unincorporated status without self-governance.
+
 ## superseded_by
 
 An array (a list) of WOF IDs that have superseded the WOF record.
