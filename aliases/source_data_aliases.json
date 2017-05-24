@@ -62,6 +62,8 @@
 	"can-mntsmvt:nom_mun": "can-mntsmvt:nom_mun",
 	"can-nwds:NEIGHNUM": "can-nwds:NEIGHNUM",
 	"can-nwds:NEIGH_NAME": "can-nwds:NEIGH_NAME",
+	"can-wpgppd:name": "can-wpgppd:name",
+	"can-wpgppd:id": "can-wpgppd:id",
 	"canvec-hydro:definit": "canvec-hydro:definit",
 	"canvec-hydro:definit_en": "canvec-hydro:definit_en",
 	"cbsnl:WK_CODE": "cbsnl:WK_CODE",
