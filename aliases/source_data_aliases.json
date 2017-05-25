@@ -55,6 +55,8 @@
 	"can-dnvgov:MET_TECH": "can-dnvgov:MET_TECH",
 	"can-dnvgov:MET_TECH_R": "can-dnvgov:MET_TECH_R",
 	"can-dnvgov:GLOBALID": "can-dnvgov:GLOBALID",
+	"can-edmdsd:name": "can-edmdsd:name",
+	"can-edmdsd:number": "can-edmdsd:number",
 	"can-mntsmvt:no_qr": "can-mntsmvt:no_qr",
 	"can-mntsmvt:nom_qr": "can-mntsmvt:nom_qr",
 	"can-mntsmvt:no_arr": "can-mntsmvt:no_arr",
