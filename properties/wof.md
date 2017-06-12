@@ -2,6 +2,10 @@
 
 `wof` stands for Who's On First
 
+## abbreviation
+
+A two-letter country code from ISO 3166.
+
 ## belongsto
 
 The (unique) set of all ancestors, as an array (list) of WOF IDs.
