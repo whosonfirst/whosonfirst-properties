@@ -32,7 +32,11 @@ A simplified encoding of a venue's hours of operation. This is not designed to c
 
 ## is_approximate
 
-This means that the geometry for this record is approximate in nature and probably derived from one of its ancestors. Technically the geometry may be incorrect but the rule of thumb is that it is still less-incorrect than no geometry or "spanning the entire globe".
+This means that the geometry for this record is approximate in nature and probably derived from one of its ancestors. Technically the geometry may be incorrect but the rule of thumb is that it is still less-incorrect than no geometry or "spanning the entire globe". An optional property, when not present should be interpreted as `-1` unknown. 
+
+* `-1` is unknown, or TBD (needs the love and care of a human)
+* `0` is false
+* `1` is true
 
 ## is_current
 
