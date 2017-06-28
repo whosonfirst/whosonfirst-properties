@@ -44,6 +44,7 @@ This is a "helper" property to wrap up / hide the semantics of whether something
 
 * `0` signifies a non-current record
 * `1` signifies a current record
+* `-1` signifies an inderminate state, someone needs to look at this record and decide
 
 Therefore, any record with a date in the `edtf:cessation` or `edtf:deprecated` fields _should_ have a `mz:is_current` field value of `0`.
 
