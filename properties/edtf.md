@@ -8,7 +8,7 @@ Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF synt
 
 ## deprecated
 
-Indicates the date when a place was considered to be invalid.
+Indicates the date when a place was determined to be invalid (was never a "going concern").
 
 Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF syntax).
 
