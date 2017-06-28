@@ -14,7 +14,7 @@ Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF synt
 
 ## inception
 
-Indicates the date when a was first created or established.
+Indicates the date when a place was first created or established.
 
 Format: _YYYY-MM-DD_ (though these dates can be encoded with any valid EDTF syntax).
 
