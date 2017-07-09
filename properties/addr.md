@@ -43,3 +43,7 @@ See also: http://wiki.openstreetmap.org/wiki/Map_Features#Addresses
 ## facebook
 
 ## github
+
+## instagram
+
+## youtube
