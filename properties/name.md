@@ -6,7 +6,12 @@ See also: [whosonfirst-names](https://github.com/whosonfirst/whosonfirst-names).
 The colloquial, informal name for a place.
 
 _Example: eng_x_colloquial_
- 
+
+## {lang}_x_historical
+The historical name for a place.
+
+_Example: zho_x_historical_
+
 ## {lang}_x_preferred
 The "preferred" name for a place. Used in Pelias and to generate language-specific map labels.
 
