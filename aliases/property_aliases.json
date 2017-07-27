@@ -162,6 +162,7 @@
 	"qs_source": "qs:source",
 	"rev_lat": "reversegeo:latitude",
 	"rev_long": "reversegeo:longitude",
+	"rev_geom": "reversegeo:geometry",
 	"address": "sg:address",
 	"city": "sg:city",
 	"owner": "sg:owner",
