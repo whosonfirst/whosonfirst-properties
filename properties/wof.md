@@ -18,6 +18,10 @@ Records of the same placetype that intersect the current record, as an array (li
 
 A hash containing identifiers from other data sources. See also: [other people's concordances](https://github.com/whosonfirst/tools-other-peoples-concordances)
 
+## concordances_alt
+
+A dictionary of lists, used if a record has more than one identifier for a single data source. Contains identifiers not present in the `wof:concordances` property.
+
 ## controlled
 
 A list of Who's On First properties that should be assumed to have been edited by an actual human and should not be updated by automated processes. For example:
