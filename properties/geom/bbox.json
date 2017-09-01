@@ -1,0 +1,6 @@
+{
+	"id": 1158804501,
+	"name": "bbox",
+	"description": "The bounding box of a feature.",
+	"type": "string"
+}

@@ -1,0 +1,6 @@
+{
+	"id": 1158804493,
+	"name": "area",
+	"description": "The geometric area of a feature.",
+	"type": "float"
+}

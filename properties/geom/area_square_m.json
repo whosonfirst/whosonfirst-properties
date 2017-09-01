@@ -1,0 +1,6 @@
+{
+	"id": 1158804497,
+	"name": "area_square_m",
+	"description": "The geometric area of a feature in square meters.",
+	"type": "float"
+}
