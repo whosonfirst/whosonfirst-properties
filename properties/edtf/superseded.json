@@ -1,0 +1,6 @@
+{
+	"id": 1158804485,
+    "name": "superseded",
+	"description": "Indicates the date when a record was superseded by another record.",
+	"type": "string"
+}
