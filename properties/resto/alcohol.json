@@ -1,6 +1,7 @@
 {
-	"id": 1158804541,
+	"id": 1158807997,
 	"name": "alcohol",
+	"prefix": "resto",
 	"description": "",
 	"type": "string"
 }

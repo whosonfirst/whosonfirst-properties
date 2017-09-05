@@ -1,6 +1,7 @@
 {
 	"id": 1158804487,
 	"name": "inception",
+	"prefix": "edtf",
 	"description": "Indicates the date when a place was first created or established.",
 	"type": "string"
 }

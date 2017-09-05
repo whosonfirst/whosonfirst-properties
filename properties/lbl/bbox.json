@@ -1,6 +1,7 @@
 {
 	"id": 1158804503,
 	"name": "bbox",
+	"prefix": "lbl",
 	"description": "The bounding box area used purely for map labelling and search purposes, and is usually smaller than the geom:bbox. The lbl:bbox is human-generated (not derived from Mapshaper).",
 	"type": "string"
 }

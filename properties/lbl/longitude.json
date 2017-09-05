@@ -1,6 +1,7 @@
 {
 	"id": 1158804509,
 	"name": "longitude",
+	"prefix": "lbl",
 	"description": "The coordinate that specifies a label's east-west position. Longitude is a decimal number between -180.0 and 180.0.",
 	"type": "float"
 }

@@ -1,6 +1,7 @@
 {
 	"id": 1158804553,
 	"name": "{lang}_x_colloquial",
+	"prefix": "name",
 	"description": "The colloquial, informal name for a place.",
 	"type": "list"
 }

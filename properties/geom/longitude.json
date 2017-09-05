@@ -1,6 +1,7 @@
 {
 	"id": 1158804505,
 	"name": "longitude",
+	"prefix": "geom",
 	"description": "The longitude of a feature's geometric centroid.",
 	"type": "float"
 }
