@@ -1,7 +1,7 @@
 {
-	"id": 1158808003,
-	"name": "conscriptionnumber",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808003,
+    "name": "conscriptionnumber",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

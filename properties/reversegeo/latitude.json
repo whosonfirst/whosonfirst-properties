@@ -1,7 +1,7 @@
 {
-	"id": 1158804533,
-	"name": "latitude",
-	"prefix": "reversegeo",
-	"description": "Typically derived from mapshaper, reversegeo:latitude represents the latitude value to use when reverse geocoding a record.",
-	"type": "string"
+    "id": 1158804533,
+    "name": "latitude",
+    "prefix": "reversegeo",
+    "description": "Typically derived from mapshaper, reversegeo:latitude represents the latitude value to use when reverse geocoding a record.",
+    "type": "string"
 }

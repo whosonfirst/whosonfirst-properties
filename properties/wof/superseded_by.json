@@ -1,7 +1,7 @@
 {
-	"id": 1158807983,
-	"name": "superseded_by",
-	"prefix": "wof",
-	"description": "An array (a list) of WOF IDs that have superseded the WOF record.",
-	"type": "list"
+    "id": 1158807983,
+    "name": "superseded_by",
+    "prefix": "wof",
+    "description": "An array (a list) of WOF IDs that have superseded the WOF record.",
+    "type": "list"
 }

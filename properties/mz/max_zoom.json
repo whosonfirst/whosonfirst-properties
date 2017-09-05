@@ -1,7 +1,7 @@
 {
-	"id": 1158807907,
-	"name": "max_zoom",
-	"prefix": "mz",
-	"description": "Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.",
-	"type": "float"
+    "id": 1158807907,
+    "name": "max_zoom",
+    "prefix": "mz",
+    "description": "Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.",
+    "type": "float"
 }

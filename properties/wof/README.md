@@ -124,6 +124,10 @@ A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placety
 
 What locals consider the placetype to be (string value).
 
+## shortcode
+
+A two or three character alphabetic code, preferring two characters for country, two characters for region, and either two or three characters for county.
+
 ## statistical_gore
 
 An optional boolean value that, when true, represents an “area” of unincorporated status without self-governance.

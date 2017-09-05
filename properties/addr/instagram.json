@@ -1,7 +1,7 @@
 {
-	"id": 1158808049,
-	"name": "instagram",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808049,
+    "name": "instagram",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

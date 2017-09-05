@@ -1,7 +1,7 @@
 {
-	"id": 1158804537,
-	"name": "polygon",
-	"prefix": "reversegeo",
-	"description": "This optional string property indicates which of the feature's named geometries to use for point-in-polygon reverse geocoding tasks. The property value namees a polygon source prefix, which is typically stored in an alt-geometry file. The reversegeo:polygon value is represented as {source} in the following filename expansion: 85922583-alt-{source}-extras.geojson",
-	"type": "string"
+    "id": 1158804537,
+    "name": "polygon",
+    "prefix": "reversegeo",
+    "description": "This optional string property indicates which of the feature's named geometries to use for point-in-polygon reverse geocoding tasks. The property value namees a polygon source prefix, which is typically stored in an alt-geometry file. The reversegeo:polygon value is represented as {source} in the following filename expansion: 85922583-alt-{source}-extras.geojson",
+    "type": "string"
 }

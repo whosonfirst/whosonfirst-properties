@@ -1,7 +1,7 @@
 {
-	"id": 1158808039,
-	"name": "youtube",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808039,
+    "name": "youtube",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

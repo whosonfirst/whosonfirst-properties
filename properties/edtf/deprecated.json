@@ -1,7 +1,7 @@
 {
-	"id": 1158804489,
-	"name": "deprecated",
-	"prefix": "edtf",
-	"description": "Indicates the date when a place was determined to be invalid (was never a going concern).",
-	"type": "string"
+    "id": 1158804489,
+    "name": "deprecated",
+    "prefix": "edtf",
+    "description": "Indicates the date when a place was determined to be invalid (was never a going concern).",
+    "type": "string"
 }

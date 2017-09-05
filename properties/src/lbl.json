@@ -1,7 +1,7 @@
 {
-	"id": 1158804529,
-	"name": "lbl",
-	"prefix": "src",
-	"description": "The source of a record's lbl properties. Valid property values are generally derived from Mapshaper and is also listed in the whosonfirst-sources repository. Other iterations of the lbl property can include lbl:centroid and centroid_lbl; these properties are specific to the label centroid of a given feature.",
-	"type": "string"
+    "id": 1158804529,
+    "name": "lbl",
+    "prefix": "src",
+    "description": "The source of a record's lbl properties. Valid property values are generally derived from Mapshaper and is also listed in the whosonfirst-sources repository. Other iterations of the lbl property can include lbl:centroid and centroid_lbl; these properties are specific to the label centroid of a given feature.",
+    "type": "string"
 }

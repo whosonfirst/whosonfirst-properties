@@ -1,7 +1,7 @@
 {
-	"id": 1158808033,
-	"name": "twitter",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808033,
+    "name": "twitter",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

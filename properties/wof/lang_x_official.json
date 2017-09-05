@@ -1,7 +1,7 @@
 {
-	"id": 1158807961,
-	"name": "lang_x_official",
-	"prefix": "wof",
-	"description": "One or more ISO-639-3 language identifiers. These represent the officially recognized languages of the location of the corresponding WOF record.",
-	"type": "list"
+    "id": 1158807961,
+    "name": "lang_x_official",
+    "prefix": "wof",
+    "description": "One or more ISO-639-3 language identifiers. These represent the officially recognized languages of the location of the corresponding WOF record.",
+    "type": "list"
 }

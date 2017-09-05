@@ -1,7 +1,7 @@
 {
-	"id": 1158807973,
-	"name": "population_rank",
-	"prefix": "wof",
-	"description": "An aggregated integer, 0 to 14, to represent the population value for a given record.",
-	"type": "integer"
+    "id": 1158807973,
+    "name": "population_rank",
+    "prefix": "wof",
+    "description": "An aggregated integer, 0 to 14, to represent the population value for a given record.",
+    "type": "integer"
 }

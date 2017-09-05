@@ -1,7 +1,7 @@
 {
-	"id": 1158807995,
-	"name": "credit_cards",
-	"prefix": "resto",
-	"description": "",
-	"type": "string"
+    "id": 1158807995,
+    "name": "credit_cards",
+    "prefix": "resto",
+    "description": "",
+    "type": "string"
 }

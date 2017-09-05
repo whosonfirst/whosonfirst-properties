@@ -1,7 +1,7 @@
 {
-	"id": 1158808037,
-	"name": "github",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808037,
+    "name": "github",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

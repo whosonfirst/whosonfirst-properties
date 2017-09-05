@@ -1,7 +1,7 @@
 {
-	"id": 1158808017,
-	"name": "suburb",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808017,
+    "name": "suburb",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-	"id": 1158808027,
-	"name": "state",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808027,
+    "name": "state",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

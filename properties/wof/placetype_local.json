@@ -1,7 +1,7 @@
 {
-	"id": 1158807979,
-	"name": "placetype_local",
-	"prefix": "wof",
-	"description": "What locals consider the placetype to be (string value).",
-	"type": "string"
+    "id": 1158807979,
+    "name": "placetype_local",
+    "prefix": "wof",
+    "description": "What locals consider the placetype to be (string value).",
+    "type": "string"
 }

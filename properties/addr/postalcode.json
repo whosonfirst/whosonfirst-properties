@@ -1,7 +1,7 @@
 {
-	"id": 1158808045,
-	"name": "postalcode",
-	"prefix": "addr",
-	"description": "",
-	"type": "string"
+    "id": 1158808045,
+    "name": "postalcode",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
 }

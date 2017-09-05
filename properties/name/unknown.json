@@ -1,7 +1,7 @@
 {
-	"id": 1158804559,
-	"name": "{lang}_x_unknown",
-	"prefix": "name",
-	"description": "An unclassified name used for a place.",
-	"type": "list"
+    "id": 1158804559,
+    "name": "{lang}_x_unknown",
+    "prefix": "name",
+    "description": "An unclassified name used for a place.",
+    "type": "list"
 }

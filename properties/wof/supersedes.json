@@ -1,7 +1,7 @@
 {
-	"id": 1158807985,
-	"name": "supersedes",
-	"prefix": "wof",
-	"description": "An array (a list) of WOF IDs that the record supersedes.",
-	"type": "list"
+    "id": 1158807985,
+    "name": "supersedes",
+    "prefix": "wof",
+    "description": "An array (a list) of WOF IDs that the record supersedes.",
+    "type": "list"
 }
