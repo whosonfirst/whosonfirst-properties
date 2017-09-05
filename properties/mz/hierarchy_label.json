@@ -1,0 +1,6 @@
+{
+	"id": 1158807925,
+	"name": "hierarchy_label",
+	"description": "Used when generating place labels in geocoding software, like Pelias; this property defaults to True unless it is set to 0 manually. When Pelias decorates an address string, the hierarchy_label property is used to determine what is included in that address string.",
+	"type": "integer"
+}

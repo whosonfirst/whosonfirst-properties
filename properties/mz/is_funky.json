@@ -1,0 +1,6 @@
+{
+	"id": 1158807917,
+	"name": "is_funky",
+	"description": "Signifies whether or not a given record may need additional updates.",
+	"type": "integer"
+}

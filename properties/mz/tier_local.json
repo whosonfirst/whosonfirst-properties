@@ -1,0 +1,6 @@
+{
+	"id": 1158807903,
+	"name": "tier_local",
+	"description": "Some estimation of coverage (including descendants) and completeness, based on total number of geotagged photos.",
+	"type": "integer"
+}
