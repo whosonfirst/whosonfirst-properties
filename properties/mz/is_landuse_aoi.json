@@ -1,7 +1,7 @@
 {
 	"id": 1158807911,
 	"name": "is_landuse_aoi",
-	"prefix": mz:,
+	"prefix": "mz",
 	"description": "This is used to signify an area of interest. Labelling is supressed if a value of 1 is given.",
 	"type": "integer"
 }

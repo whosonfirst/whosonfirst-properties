@@ -1,7 +1,7 @@
 {
 	"id": 1158807919,
 	"name": "is_current",
-	"prefix": mz:,
+	"prefix": "mz",
 	"description": "This is a helper property to wrap up / hide the semantics of whether something is open or existing. For example, a venue that is no longer in operation or a country (like Yugoslavia) that has dissolved in to smaller nations. Any record with a date in the edtf:cessation or edtf:deprecated fields _should_ have a mz:is_current field value of 0",
 	"type": "integer"
 }

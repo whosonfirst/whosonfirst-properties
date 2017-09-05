@@ -1,7 +1,7 @@
 {
 	"id": 1158807913,
 	"name": "is_hard_boundary",
-	"prefix": mz:,
+	"prefix": "mz",
 	"description": "Things like historic districts or similar with fixed, undisputed boundaries.",
 	"type": "integer"
 }
