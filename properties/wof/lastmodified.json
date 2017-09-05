@@ -1,0 +1,7 @@
+{
+	"id": 1158807965,
+	"name": "lastmodified",
+	"prefix": "wof",
+	"description": "A Unix epoch timestamp integer.",
+	"type": "integer"
+}

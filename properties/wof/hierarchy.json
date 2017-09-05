@@ -1,0 +1,7 @@
+{
+	"id": 1158807955,
+	"name": "hierarchy",
+	"prefix": "wof",
+	"description": "A list of hashes, where each object is the list of ancestors.",
+	"type": "list"
+}

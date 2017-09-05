@@ -1,0 +1,7 @@
+{
+	"id": 1158807981,
+	"name": "statistical_gore",
+	"prefix": "wof",
+	"description": "An optional boolean value that, when true, represents an area of unincorporated status without self-governance.",
+	"type": "integer"
+}

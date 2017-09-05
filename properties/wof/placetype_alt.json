@@ -1,0 +1,7 @@
+{
+	"id": 1158807977,
+	"name": "placetype_alt",
+	"prefix": "wof",
+	"description": "A list of string placetypes denoting alternate representations of a place.",
+	"type": "list"
+}

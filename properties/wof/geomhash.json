@@ -1,0 +1,7 @@
+{
+	"id": 1158807953,
+	"name": "geomhash",
+	"prefix": "wof",
+	"description": "An auto-generated, non-editable MD5 string of the geometry JSON.",
+	"type": "string"
+}
