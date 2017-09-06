@@ -64,7 +64,7 @@ _Example: kor_x_preferred_abbreviation_
 
 The "preferred" disambiguation label for a place (exclusive of hierarchy), in practice a single element list. Either append the feature's placetype or append the parent's name in parenthesis.
 
-_Example: kor_x_preferred_dissambiguation_
+_Example: kor_x_preferred_disambiguation_
 
 ```
 "label:eng_x_variant_disambiguation": ["Fairfax city"]
@@ -135,7 +135,7 @@ _Example: deu_x_variant_abbreviation_
 
 Uncommon "variant" disambiguation labels for a place (exclusive of hierarchy). Either append the feature's placetype or append the parent's name in parenthesis.
 
-_Example: deu_x_variant_dissambiguation_
+_Example: deu_x_variant_disambiguation_
 
 ```
 "label:eng_x_variant_disambiguation": ["Portland (ME)"]
