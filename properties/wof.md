@@ -6,7 +6,7 @@
 
 A two-letter country code from ISO 3166.
 
-**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use [label:{lang}_x_preferred_shortcode](labels.md#label_lang_x_preferred_shortcode) instead.
+**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode) instead.
 
 ## belongsto
 
