@@ -1,0 +1,7 @@
+{
+    "id": 1158808163,
+    "name": "{lang}_x_preferred_placetype",
+    "prefix": "label",
+    "description": "A feature's preferred placetype label (exclusive of place name and hierarchy), in practice a single element list. While wof:placetype is an enumerated value, this localized value is a string.",
+    "type": "list"
+}

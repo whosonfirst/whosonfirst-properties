@@ -1,0 +1,7 @@
+{
+    "id": 1158808177,
+    "name": "{lang}_x_variant_disambiguation",
+    "prefix": "label",
+    "description": "Uncommon variant disambiguation labels for a place (exclusive of hierarchy). Either append the feature's placetype or append the parent's name in parenthesis.",
+    "type": "list"
+}

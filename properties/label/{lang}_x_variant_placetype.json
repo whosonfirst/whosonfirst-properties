@@ -1,0 +1,7 @@
+{
+    "id": 1158808179,
+    "name": "{lang}_x_variant_placetype",
+    "prefix": "label",
+    "description": "Uncommon variant placetype labels (exclusive of hierarchy). While wof:placetype is an enumerated value, this value is a string value.",
+    "type": "list"
+}

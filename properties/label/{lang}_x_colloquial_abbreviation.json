@@ -1,0 +1,7 @@
+{
+    "id": 1158808151,
+    "name": "{lang}_x_colloquial_abbreviation",
+    "prefix": "label",
+    "description": "The colloquial, informal abbreviation for a place (inclusive of hierarchy).",
+    "type": "list"
+}

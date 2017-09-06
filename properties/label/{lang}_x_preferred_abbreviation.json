@@ -1,0 +1,7 @@
+{
+    "id": 1158808159,
+    "name": "{lang}_x_preferred_abbreviation",
+    "prefix": "label",
+    "description": "The preferred label for a place name (exclusive of hierarchy), in practice a single element list. Used in Pelias and to generate language-specific map labels.",
+    "type": "list"
+}

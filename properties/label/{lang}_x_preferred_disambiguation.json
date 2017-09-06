@@ -1,0 +1,7 @@
+{
+    "id": 1158808161,
+    "name": "{lang}_x_preferred_disambiguation",
+    "prefix": "label",
+    "description": "The preferred disambiguation label for a place (exclusive of hierarchy), in practice a single element list. Either append the feature's placetype or append the parent's name in parenthesis.",
+    "type": "list"
+}
