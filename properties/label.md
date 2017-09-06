@@ -88,7 +88,7 @@ _Example: kor_x_preferred_placetype_
 
 A feature's "preferred" localized shortcode that takes precedence over `wof:shortcode` (exclusive of place name and hierarchy), in practice a single element list. 
 
-A 2- or 3-character alphabetic code, preferring 2-characters for `country` (e.g. **US**), 2-characters for `region` (e.g. **CA**), and either 2- or 3-characters for `county` (e.g. **HUM**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
+A short alphabetic code, preferring 3-characters for `country` (e.g. **USA**), 2-characters for `region` (e.g. **CA**), and either 3-characer or 2-character for `county` (e.g. **HUM** or **HU**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
 
 _Example: eng_x_preferred_shortcode_ 
 
@@ -103,9 +103,7 @@ _Example: eng_x_preferred_shortcode_
 "label:eng_x_variant_shortcode": ["HUM"]
 ```
 
-See also: `wof:country_alpha3` which is a 3-character shortcode (e.g. `USA`) which is only available on `country`, `dependency`, and `disputed` placetypes.
-
-_WARNING: do not confuse `{lang}_x_preferred_shortcode` and `wof:shortcode` properties with the deprecated `wof:abbreviation` property._
+_WARNING: do not confuse `{lang}_x_preferred_shortcode` and `wof:shortcode` properties with the deprecated `wof:abbreviation` or `wof:country_alpha3` properties._
 
 ## {lang}_x_unknown
 
@@ -159,7 +157,7 @@ _Example: deu_x_variant_placetype_
 
 Uncommon localized shortcodes (exclusive of hierarchy).
 
-An alphabetic code, preferring 2-characters for `country`, 2-characters for `region`, and either 2- or 3-characters for `county` placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
+A short alphabetic code, preferring 3-characters for `country` (e.g. **USA**), 2-characters for `region` (e.g. **CA**), and either 3-characer or 2-character for `county` (e.g. **HUM** or **HU**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
 
 _Example: label:deu_x_variant_shortcode_
 
