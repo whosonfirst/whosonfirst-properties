@@ -128,7 +128,7 @@ What locals consider the placetype to be (string value).
 
 ## shortcode
 
-A 2- or 3-character alphabetic code, preferring 2-characters for `country` (e.g. **US**), 2-characters for `region` (e.g. **CA**), and either 2- or 3-characters for `county` (e.g. **HUM**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
+A 2- or 3-character alphabetic code, preferring 3-characters for `country` (e.g. **USA**), 2-characters for `region` (e.g. **CA**), and either 3-characer or 2-character for `county` (e.g. **HUM** or **HU**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
 
 This property replaces the earlier `abbreviation` and is localized via [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode).
 
