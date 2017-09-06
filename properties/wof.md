@@ -6,7 +6,7 @@
 
 A two-letter country code from ISO 3166.
 
-**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode) instead.
+**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use `shortcode` or [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode) instead.
 
 ## belongsto
 
@@ -125,6 +125,12 @@ A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placety
 ## placetype_local
 
 What locals consider the placetype to be (string value).
+
+## shortcode
+
+A 2- or 3-character alphabetic code, preferring 2-characters for `country` (e.g. **US**), 2-characters for `region` (e.g. **CA**), and either 2- or 3-characters for `county` (e.g. **HUM**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
+
+This property replaces the earlier `abbreviation` and is localized via [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode).
 
 ## statistical_gore
 
