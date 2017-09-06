@@ -6,6 +6,8 @@
 
 A two-letter country code from ISO 3166.
 
+**IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use `shortcode` or [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode) instead.
+
 ## belongsto
 
 The (unique) set of all ancestors, as an array (list) of WOF IDs.
@@ -126,7 +128,9 @@ What locals consider the placetype to be (string value).
 
 ## shortcode
 
-A two or three character alphabetic code, preferring two characters for country, two characters for region, and either two or three characters for county.
+A short alphabetic code, preferring 3-characters for `country` (e.g. **USA**), 2-characters for `region` (e.g. **CA**), and either 3-characer or 2-character for `county` (e.g. **HUM** or **HU**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
+
+This property replaces the earlier `abbreviation` and is localized via [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode).
 
 ## statistical_gore
 
