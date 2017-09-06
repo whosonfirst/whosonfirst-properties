@@ -2,6 +2,6 @@
     "id": 1158807979,
     "name": "placetype_local",
     "prefix": "wof",
-    "description": “WARNING: This property is deprecated. What locals consider the placetype to be (string value).",
+    "description": "WARNING: This property is deprecated. What locals consider the placetype to be (string value).",
     "type": "string"
 }
