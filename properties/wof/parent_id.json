@@ -2,6 +2,6 @@
     "id": 1158807971,
     "name": "parent_id",
     "prefix": "wof",
-    "description": "An integer WOF ID of the direct parent record. If a record has more than one parent, the following values should be used: -1, -2, -3, -4.",
+    "description": "An integer WOF ID of the direct parent record. If a record has more than one parent, the following values should be used: -1 (unknown parent, record needs review), -2 (shrug, this feature is complicated), -3 (contested, but not disputed.. used for placetypes below the locality level), or -4 (multiple legal parents.. used for placetypes at the locality level or above).",
     "type": "integer"
 }

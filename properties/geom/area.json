@@ -2,6 +2,6 @@
     "id": 1158804493,
     "name": "area",
     "prefix": "geom",
-    "description": "The geometric area of a feature.",
+    "description": "The geometric area of a feature, in WGS84 (unprojected lat/lng).”,
     "type": "float"
 }
