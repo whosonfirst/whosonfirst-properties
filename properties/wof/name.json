@@ -2,6 +2,6 @@
     "id": 1158807967,
     "name": "name",
     "prefix": "wof",
-    "description": "An English UTF-7 transliterated representation of the name.",
+    "description": "An English UTF-7 transliterated representation of the name. (Some features have UTF-8 names.)",
     "type": "string"
 }
