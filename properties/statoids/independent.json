@@ -1,0 +1,7 @@
+{
+    "id": 1158818063,
+    "name": "independent",
+    "prefix": "statoids",
+    "description": "Signifies if the feature is an independent political entity. Country status, based on the CIA World Factbook. This column is just a superficial note, provided for convenience.",
+    "type": "string"
+}

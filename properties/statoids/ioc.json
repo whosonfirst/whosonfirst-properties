@@ -1,0 +1,7 @@
+{
+    "id": 1158818059,
+    "name": "ioc",
+    "prefix": "statoids",
+    "description": "Country codes used by the International Olympics Committee. These codes identify the nationality of athletes and teams during Olympic events.",
+    "type": "string"
+}

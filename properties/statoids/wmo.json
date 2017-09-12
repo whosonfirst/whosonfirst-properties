@@ -1,0 +1,7 @@
+{
+    "id": 1158818069,
+    "name": "wmo",
+    "prefix": "statoids",
+    "description": "Country abbreviations used in weather reports from the World Meteorological Organization.",
+    "type": "string"
+}

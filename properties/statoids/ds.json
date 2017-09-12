@@ -1,0 +1,7 @@
+{
+    "id": 1158818045,
+    "name": "ds",
+    "prefix": "statoids",
+    "description": "Distinguishing signs of vehicles in international traffic (oval bumper sticker codes).",
+    "type": "string"
+}

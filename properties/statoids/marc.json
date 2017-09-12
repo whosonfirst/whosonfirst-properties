@@ -1,0 +1,7 @@
+{
+    "id": 1158818065,
+    "name": "marc",
+    "prefix": "statoids",
+    "description": "MAchine-Readable Cataloging codes from the Library of Congress. MARC is a standard for encoding bibliographic materials in electronic form. The Library of Congress maintains the MARC code list for countries.",
+    "type": "string"
+}

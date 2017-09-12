@@ -1,0 +1,7 @@
+{
+    "id": 1158818019,
+    "name": "name",
+    "prefix": "statoids",
+    "description": "In English, using characters in the Latin-1 character set. Other characters, such as a-macron, are displayed with diacritics removed.",
+    "type": "string"
+}

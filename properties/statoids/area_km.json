@@ -1,0 +1,7 @@
+{
+    "id": 1158818035,
+    "name": "area_km",
+    "prefix": "statoids",
+    "description": "Area of the subdivision in sq. km. Rounded to the nearest unit, or the nearest tenth of a unit where available.",
+    "type": "string"
+}
