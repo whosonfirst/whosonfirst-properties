@@ -2,6 +2,6 @@
     "id": 1158807903,
     "name": "tier_local",
     "prefix": "mz",
-    "description": “WARNING: This property is deprecated. Some estimation of coverage (including descendants) and completeness, based on total number of geotagged photos.",
+    "description": "WARNING: This property is deprecated. Some estimation of coverage (including descendants) and completeness, based on total number of geotagged photos.",
     "type": "integer"
 }

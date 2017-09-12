@@ -2,6 +2,6 @@
     "id": 1158807929,
     "name": "abbreviation",
     "prefix": "wof",
-    "description": “WARNING: this property is deprecated and has been replaced by wof:shortcode. A two-letter country code from ISO 3166.",
+    "description": "WARNING: this property is deprecated and has been replaced by wof:shortcode. A two-letter country code from ISO 3166.",
     "type": "string"
 }

@@ -3,5 +3,5 @@
     "name": "latitude",
     "prefix": "reversegeo",
     "description": "Typically derived from mapshaper, reversegeo:latitude represents the latitude value to use when reverse geocoding a record.",
-    "type": “float”
+    "type": "float"
 }
