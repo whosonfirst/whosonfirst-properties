@@ -1,0 +1,7 @@
+{
+    "id": 1158807947,
+    "name": "country",
+    "prefix": "wof",
+    "description": "A two-letter country code from ISO 3166.",
+    "type": "string"
+}

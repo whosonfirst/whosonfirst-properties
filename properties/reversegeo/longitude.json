@@ -1,0 +1,7 @@
+{
+    "id": 1158804535,
+    "name": "longitude",
+    "prefix": "reversegeo",
+    "description": "Typically derived from mapshaper, reversegeo:longitude represents the longitude value to use when reverse geocoding a record.",
+    "type": "float"
+}

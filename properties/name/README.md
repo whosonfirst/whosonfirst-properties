@@ -25,4 +25,4 @@ _Example: nep_x_unknown_
 ## {lang}_x_variant
 An uncommon "variant" name used for a place. Used in mapping and geocoding software and to generate language-specific map labels.
 
-_Example: ger_x_variant_
+_Example: deu_x_variant_

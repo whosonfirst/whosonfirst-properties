@@ -1,0 +1,7 @@
+{
+    "id": 1158808147,
+    "name": "{lang}_x_colloquial",
+    "prefix": "label",
+    "description": "The colloquial, informal label for a place (inclusive of hierarchy).",
+    "type": "list"
+}

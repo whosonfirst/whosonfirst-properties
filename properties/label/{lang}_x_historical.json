@@ -1,0 +1,7 @@
+{
+    "id": 1158808155,
+    "name": "{lang}_x_historical",
+    "prefix": "label",
+    "description": "The historical label for a place (inclusive of hierarchy).",
+    "type": "list"
+}

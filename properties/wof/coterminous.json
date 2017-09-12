@@ -1,0 +1,7 @@
+{
+    "id": 1158807945,
+    "name": "coterminous",
+    "prefix": "wof",
+    "description": "Links two or more records with overlapping or identical geometries that serve separate functions, but are essentially the same place. Think city-state.",
+    "type": "integer"
+}

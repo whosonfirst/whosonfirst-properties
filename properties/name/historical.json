@@ -1,0 +1,7 @@
+{
+    "id": 1158804555,
+    "name": "{lang}_x_historical",
+    "prefix": "name",
+    "description": "The historical name for a place.",
+    "type": "list"
+}

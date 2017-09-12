@@ -1,0 +1,7 @@
+{
+    "id": 1158804497,
+    "name": "area_square_m",
+    "prefix": "geom",
+    "description": "The geometric area of a feature in square meters, in the EPSG:3410 projection.",
+    "type": "float"
+}

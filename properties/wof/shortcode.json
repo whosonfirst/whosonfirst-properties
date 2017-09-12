@@ -1,0 +1,7 @@
+{
+    "id": 1158808051,
+    "name": "shortcode",
+    "prefix": "wof",
+    "description": "A two or three character alphabetic code, preferring three characters for country, two characters for region, and either two or three characters for county.",
+    "type": "string"
+}

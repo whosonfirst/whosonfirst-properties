@@ -1,0 +1,7 @@
+{
+    "id": 1158807975,
+    "name": "placetype",
+    "prefix": "wof",
+    "description": "Represents a common, common-optional, or optional string value of what WOF calls a record's administrative division type.",
+    "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158807931,
+    "name": "belongsto",
+    "prefix": "wof",
+    "description": "The (unique) set of all ancestors, as an array (list) of WOF IDs.",
+    "type": "list"
+}

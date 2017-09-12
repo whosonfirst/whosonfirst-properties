@@ -1,0 +1,7 @@
+{
+    "id": 1158808169,
+    "name": "{lang}_x_unknown",
+    "prefix": "label",
+    "description": "Uncommon unclassified labels used for a place (inclusive of hierarchy).",
+    "type": "list"
+}

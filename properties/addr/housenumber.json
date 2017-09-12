@@ -1,0 +1,7 @@
+{
+    "id": 1158808007,
+    "name": "housenumber",
+    "prefix": "addr",
+    "description": "",
+    "type": "string"
+}

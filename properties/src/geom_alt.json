@@ -1,0 +1,7 @@
+{
+    "id": 1158804527,
+    "name": "geom_alt",
+    "prefix": "src",
+    "description": "The data source of a record's geometry. Valid property values are listed in the whosonfirst-sources repository.",
+    "type": "string"
+}

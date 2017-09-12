@@ -1,0 +1,7 @@
+{
+    "id": 1158808173,
+    "name": "{lang}_x_variant",
+    "prefix": "label",
+    "description": "Uncommon variant labels used for a place (inclusive of hierarchy). Used in mapping and geocoding software and to generate language-specific map labels.",
+    "type": "list"
+}

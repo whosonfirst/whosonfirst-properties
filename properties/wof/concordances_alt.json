@@ -1,0 +1,7 @@
+{
+    "id": 1158807941,
+    "name": "concordances_alt",
+    "prefix": "wof",
+    "description": "A dictionary of lists, used if a record has more than one identifier for a single data source. Contains identifiers not present in the wof:concordances property.",
+    "type": "dictionary"
+}

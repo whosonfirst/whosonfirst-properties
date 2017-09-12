@@ -1,0 +1,7 @@
+{
+    "id": 1158808157,
+    "name": "{lang}_x_preferred",
+    "prefix": "label",
+    "description": "The fully qualified preferred label for a place (inclusive of hierarchy), in practice a single element list. Used in Pelias and to generate language-specific map labels. The label:{lang}_x_preferred property takes precedence over wof:label.",
+    "type": "list"
+}

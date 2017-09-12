@@ -1,0 +1,7 @@
+{
+    "id": 1158807989,
+    "name": "tags",
+    "prefix": "wof",
+    "description": "An array (a list) of tags.",
+    "type": "list"
+}

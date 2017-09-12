@@ -1,0 +1,7 @@
+{
+    "id": 1158808175,
+    "name": "{lang}_x_variant_abbreviation",
+    "prefix": "label",
+    "description": "Uncommon variant abbreviations used for a place (exclusive of hierarchy).",
+    "type": "list"
+}
