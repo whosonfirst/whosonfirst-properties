@@ -1,6 +1,6 @@
 # statoids
 
-Properties imported from the [Statoids](https://www.statoids.com) website.
+Properties imported from the [Statoids](https://www.statoids.com) website. These properties were added with permission from the author; see the [HASC](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/hasc.json) source file for more information.
 
 ## area_km
 
