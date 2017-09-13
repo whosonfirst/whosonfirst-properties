@@ -1,6 +1,6 @@
 # statoids
 
-Properties imported under CC-BY license from [Statoids](https://www.statoids.com) via special arrangement with the author; see the [Statoids](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md#statoids) source file for more information.
+Properties imported under CC-BY license from [Statoids](https://www.statoids.com) via special arrangement with the author; see the [Statoids](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/statoids.json) source file for more information.
 
 ## area_km
 
