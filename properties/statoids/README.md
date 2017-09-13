@@ -1,6 +1,6 @@
 # statoids
 
-Properties imported from the [Statoids](https://www.statoids.com) website. These properties were added with permission from the author; see the [HASC](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/hasc.json) source file for more information.
+Properties imported under CC-BY license from [Statoids](https://www.statoids.com) via special arrangement with the author; see the [Statoids](https://github.com/whosonfirst/whosonfirst-sources/blob/master/sources/README.md#statoids) source file for more information.
 
 ## area_km
 
@@ -20,7 +20,7 @@ Administrative seat of the subdivision.
 
 ## country
 
-Country code, represented using the ISO 3166-1 code.
+Level-1 administrative code that approximates Who's On First country placetype level, defined by Statoids and represented using the ISO 3166-1 code.
 
 ## dial
 
@@ -40,7 +40,7 @@ GAUL is a relatively new initiative from the FAO (Food and Agriculture Organizat
 
 ## hasc
 
-Represented using the level-2 HASC code.
+Level-2 Hierarchical Administrative Subdivision Code that approximates Who's On First region placetype level, defined by Statoids.
 
 ## independent
 
