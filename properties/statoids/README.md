@@ -80,7 +80,7 @@ Most recent census figures available. Where no census is available, most recent 
 
 ## statoid
 
-Level-3 hierarchical administrative subdivision code, defined by the author, used as a primary key for this table.
+Level-3 hierarchical administrative subdivision code, defined by Statoids, used as a primary key for this table.
 
 ## timezone
 
