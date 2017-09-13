@@ -84,7 +84,7 @@ Level-3 hierarchical administrative subdivision code, defined by the author, use
 
 ## timezone
 
-Represented as offset from UTC (formerly known as GMT), +-hh:mm, minutes omitted if :00. Positive offsets generally represent the Eastern hemisphere. Tilde (~) identifies time zones where Daylight Saving Time (Summer Time) is observed. For regions in more than one time zone, I have selected the time zone covering the largest area.
+Represented as offset from UTC (formerly known as GMT), +-hh:mm, minutes omitted if :00. Positive offsets generally represent the Eastern hemisphere. Tilde (~) identifies time zones where Daylight Saving Time (Summer Time) is observed. For regions in more than one time zone, Statoids has selected the time zone covering the largest area.
 
 ## type
 
