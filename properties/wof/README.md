@@ -96,9 +96,13 @@ An integer value to represent the most current, known population of a place. (re
 
 ## population_rank
 
-An aggregated integer, 0 to 14, where the values represent the following ranges:
+An aggregated integer, 0 to 18, where the values represent the following ranges:
 
-    14: 10m+
+    18: Over 1b
+    17: 100m to 1b
+    16: 50m to 100m
+    15: 20m to 50m
+    14: 10m to 20m
     13: 5m to 10m
     12: 1m to 5m
     11: 500k to 1m
@@ -112,7 +116,7 @@ An aggregated integer, 0 to 14, where the values represent the following ranges:
     3: 1k to 2k
     2: 200 to 1k
     1: Less than 200
-    0: locale (no population) / places that only are visible at 50k scale or larger (but not neighbourhoods)
+    0: Locale (no population) / places that only are visible at 50k scale or larger (but not neighbourhoods)
 
 ## placetype
 
