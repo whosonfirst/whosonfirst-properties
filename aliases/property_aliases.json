@@ -177,6 +177,7 @@
 	"source": "src:geom",
 	"src_geom": "src:geom",
 	"src_geom_a": "src:geom_alt",
+	"srclblcent": "src:lbl_centroid",
 	"src_lbl_ce": "src:lbl:centroid",
 	"src_pop": "src:population",
 	"wof_belong": "wof:belongsto",
