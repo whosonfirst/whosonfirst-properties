@@ -10,7 +10,7 @@ Area of the subdivision in sq. km. Rounded to the nearest unit, or the nearest t
 
 Area of the subdivision in sq. mi. Rounded to the nearest unit, or the nearest tenth of a unit where available.
 
-## as-of-date
+## as_of_date
 
 Date of which the population was enumerated. If the source doesn't give a month or day, 01 is used.
 
