@@ -1,0 +1,7 @@
+{
+    "id": 1158818043,
+    "name": "dial",
+    "prefix": "statoids",
+    "description": "The digits of a telephone number following the country code often have a geographical significance.  Country code from ITU-T recommendation E.164 (international dialing code), sometimes followed by area code.",
+    "type": "string"
+}

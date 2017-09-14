@@ -1,0 +1,7 @@
+{
+    "id": 1158818041,
+    "name": "capital",
+    "prefix": "statoids",
+    "description": "Administrative seat of the subdivision.",
+    "type": "string"
+}

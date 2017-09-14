@@ -1,0 +1,7 @@
+{
+    "id": 1158818027,
+    "name": "type",
+    "prefix": "statoids",
+    "description": "Status of division (municipality, district, county, etc.). Translated into English, unless there is no recognized equivalent in English.",
+    "type": "string"
+}

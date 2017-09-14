@@ -1,0 +1,7 @@
+{
+    "id": 1158818025,
+    "name": "statoid",
+    "prefix": "statoids",
+    "description": "Level-3 hierarchical administrative subdivision code, defined by Statoids, used as a primary key for this table.",
+    "type": "string"
+}

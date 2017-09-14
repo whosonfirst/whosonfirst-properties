@@ -1,0 +1,7 @@
+{
+    "id": 1158818047,
+    "name": "iso_a2",
+    "prefix": "statoids",
+    "description": "Alpha-2 codes from ISO 3166-1.",
+    "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158818057,
+    "name": "iso_num",
+    "prefix": "statoids",
+    "description": "Numeric codes from ISO 3166-1.",
+    "type": "string"
+}

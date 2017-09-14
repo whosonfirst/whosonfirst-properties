@@ -1,0 +1,7 @@
+{
+    "id": 1158818017,
+    "name": "as-of-date",
+    "prefix": "statoids",
+    "description": "Date of which the population was enumerated. If the source doesn't give a month or day, 01 is used.",
+    "type": "string"
+}

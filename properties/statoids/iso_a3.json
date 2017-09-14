@@ -1,0 +1,7 @@
+{
+    "id": 1158818051,
+    "name": "iso_a3",
+    "prefix": "statoids",
+    "description": "Alpha-3 codes from ISO 3166-1 (synonymous with World Bank Codes).",
+    "type": "string"
+}

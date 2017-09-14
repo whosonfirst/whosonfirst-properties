@@ -1,0 +1,7 @@
+{
+    "id": 1158818029,
+    "name": "population",
+    "prefix": "statoids",
+    "description": "Most recent census figures available. Where no census is available, most recent estimates available. When subdivisions split, often shows a cross-reference to the other fragment.",
+    "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158818023,
+    "name": "hasc",
+    "prefix": "statoids",
+    "description": "Represented using the level-2 HASC code.",
+    "type": "string"
+}

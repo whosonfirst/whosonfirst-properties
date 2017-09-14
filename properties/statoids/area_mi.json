@@ -1,0 +1,7 @@
+{
+    "id": 1158818037,
+    "name": "area_mi",
+    "prefix": "statoids",
+    "description": "Area of the subdivision in sq. mi. Rounded to the nearest unit, or the nearest tenth of a unit where available.",
+    "type": "string"
+}

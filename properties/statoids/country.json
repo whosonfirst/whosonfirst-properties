@@ -1,0 +1,7 @@
+{
+    "id": 1158818021,
+    "name": "country",
+    "prefix": "statoids",
+    "description": "Country code, represented using the ISO 3166-1 code.",
+    "type": "string"
+}

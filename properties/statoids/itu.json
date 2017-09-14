@@ -1,0 +1,7 @@
+{
+    "id": 1158818061,
+    "name": "itu",
+    "prefix": "statoids",
+    "description": "ITU country codes are used to identify radio transmitter locations. Codes assigned by the International Telecommunications Union.",
+    "type": "string"
+}
