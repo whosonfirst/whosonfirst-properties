@@ -1,0 +1,7 @@
+{
+    "id": 1158821347,
+    "name": "parent",
+    "prefix": "iso",
+    "description": "The two-letter country code from ISO 3166-1 of the record's parent country.",
+    "type": "string"
+}

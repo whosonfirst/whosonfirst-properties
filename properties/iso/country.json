@@ -1,0 +1,7 @@
+{
+    "id": 1158821349,
+    "name": "country",
+    "prefix": "iso",
+    "description": "The two-letter country code from ISO 3166-1.",
+    "type": "string"
+}

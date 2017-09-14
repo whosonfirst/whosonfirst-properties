@@ -1,0 +1,7 @@
+{
+    "id": 1158821351,
+    "name": "subdivision",
+    "prefix": "iso",
+    "description": "The two-letter country code and two-letter primary division (region) code from ISO 3166-2. Used for administrative divisions under the country and dependency placetypes.",
+    "type": "string"
+}
