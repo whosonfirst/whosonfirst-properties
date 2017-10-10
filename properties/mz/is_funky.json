@@ -2,6 +2,6 @@
     "id": 1158807917,
     "name": "is_funky",
     "prefix": "mz",
-    "description": "Signifies whether or not a given record may need additional updates.",
+    "description": "Signifies whether or not a given record may need additional updates and whether or not a record is filtered out of Mapzen services unless explicitly asked for.",
     "type": "integer"
 }
