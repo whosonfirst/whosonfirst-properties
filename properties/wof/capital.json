@@ -1,0 +1,7 @@
+{
+    "id": 1158844349,
+    "name": "capital",
+    "prefix": "wof",
+    "description": "A list property used to link country or dependency records to their administrative, judicial, and/or legislative capitals. The values are equal to the wof:id of each capital.",
+    "type": "list"
+}
