@@ -16,6 +16,14 @@ The (unique) set of all ancestors, as an array (list) of WOF IDs.
 
 Records of the same placetype that intersect the current record, as an array (list) of WOF IDs.
 
+## capital
+
+A list property used to link country or dependency records to their administrative, judicial, and/or legislative capitals. The values are equal to the `wof:id` of each capital. Capital records have a `wof:placetype` of `locality`.
+
+## capital_of
+
+A string property used to link administrative, judicial, and/or legislative capitals to their parent country or dependency. The values are equal to the `wof:id` of the parent country or dependency.
+
 ## concordances
 
 A hash containing identifiers from other data sources. See also: [other people's concordances](https://github.com/whosonfirst/tools-other-peoples-concordances)
