@@ -54,6 +54,8 @@ Therefore, any record with a date in the `edtf:cessation` or `edtf:deprecated` f
 * `0` is false
 * `1` is true
 
+Used when Mapzen suspects the record is bad or inappropriate but additional confirmation is needed before the feature is deprecated. Records with a `1` value are recommended to be hidden from map display and search unless explicitly asked for by name.
+
 ## is_hard_boundary
 
 Things like historic districts or similar with fixed, undisputed boundaries.
