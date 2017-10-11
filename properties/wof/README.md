@@ -18,7 +18,7 @@ Records of the same placetype that intersect the current record, as an array (li
 
 ## capital
 
-A list property used to link country or dependency records to their administrative, judicial, and/or legislative capitals. The values are equal to the `wof:id` of each capital.
+A list property used to link country or dependency records to their administrative, judicial, and/or legislative capitals. The values are equal to the `wof:id` of each capital. Capital records have a `wof:placetype` of `locality`.
 
 ## capital_of
 
