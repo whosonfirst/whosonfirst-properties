@@ -47,6 +47,8 @@
 	"tier_local": "mz:tier_locality",
 	"tier_locality": "mz:tier_locality",
 	"tier_metro": "mz:tier_metro",
+	"name_cat_x": "name:cat_x_preferred",
+	"name_cat_1": "name:cat_x_variant",
 	"name_chi_x": "name:chi_x_preferred",
 	"name_chi_1": "name:chi_x_variant",
 	"name_cze_x": "name:cze_x_preferred",
