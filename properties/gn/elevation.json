@@ -1,0 +1,7 @@
+{
+    "id": 1158844683,
+    "name": "elevation",
+    "prefix": "gn",
+    "description": "A single integer giving the elevation (in meters).",
+    "type": "integer"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158844687,
+    "name": "id",
+    "prefix": "gn",
+    "description": "The unique GeoNames identifier for a given record.",
+    "type": "string"
+}

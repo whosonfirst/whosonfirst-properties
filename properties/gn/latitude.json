@@ -1,0 +1,7 @@
+{
+    "id": 1158844691,
+    "name": "latitude",
+    "prefix": "gn",
+    "description": "The latitude value for a given record.",
+    "type": "string"
+}
