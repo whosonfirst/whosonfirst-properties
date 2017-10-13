@@ -1,0 +1,7 @@
+{
+    "id": 1158844929,
+    "name": "population",
+    "prefix": "src",
+    "description": "The source of a record's population value, which is stored in the wof:population property. Property values are a source name.",
+    "type": "string"
+}
