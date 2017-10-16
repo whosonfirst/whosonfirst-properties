@@ -1,0 +1,7 @@
+{
+    "id": 1158846103,
+    "name": "latitude",
+    "prefix": "wk",
+    "description": "The coordinate that specifies a label's north–south position. Latitude is a decimal number between -90.0 and 90.0.",
+    "type": "string"
+}

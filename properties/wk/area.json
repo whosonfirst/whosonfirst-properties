@@ -1,0 +1,7 @@
+{
+    "id": 1158846097,
+    "name": "area",
+    "prefix": "wk",
+    "description": "The area of a given record, as recorded by Wikipedia. Represented as kilometers squared (km2)."
+    "type": "string"
+}
