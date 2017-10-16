@@ -1,0 +1,7 @@
+{
+    "id": 1158846083,
+    "name": "label",
+    "prefix": "wof",
+    "description": "A string value used to populated labels for map displays.",
+    "type": "string"
+}

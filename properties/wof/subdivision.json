@@ -1,0 +1,7 @@
+{
+    "id": 1158846091,
+    "name": "subdivision",
+    "prefix": "wof",
+    "description": "The value represents a concatenated identifier from the UN/LOCODE, a two-character country code and three-character feature code with a deliminator and names.",
+    "type": "string"
+}
