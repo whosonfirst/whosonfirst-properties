@@ -166,6 +166,8 @@
 	"porbps:HORZ_VERT": "porbps:HORZ_VERT",
 	"porbps:MAPLABEL": "porbps:MAPLABEL",
 	"porbps:ID": "porbps:ID",
+	"santabar:NHOOD":"santabar:NHOOD",
+	"santabar:NEIGHBORHOOD":"santabar:NEIGHBORHOOD",
 	"sdgis:NAME": "sdgis:NAME",
 	"seagv:objectid": "seagv:objectid",
 	"seagv:hoods_": "seagv:hoods_",
