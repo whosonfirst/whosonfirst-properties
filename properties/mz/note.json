@@ -1,0 +1,7 @@
+{
+    "id": 1158844709,
+    "name": "note",
+    "prefix": "mz",
+    "description": "A string value used for notes when hand-curating a given record.",
+    "type": "string"
+}

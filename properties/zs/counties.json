@@ -1,0 +1,7 @@
+{
+    "id": 1158847765,
+    "name": "counties",
+    "prefix": "zs",
+    "description": "Also represented as zs:us:counties.",
+    "type": "string"
+}

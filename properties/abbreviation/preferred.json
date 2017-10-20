@@ -1,0 +1,7 @@
+{
+    "id": 1158844673,
+    "name": "{lang}_x_preferred",
+    "prefix": "abbreviation",
+    "description": "The preferred abbreviation for a place.",
+    "type": "list"
+}

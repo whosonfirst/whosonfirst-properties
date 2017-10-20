@@ -1,0 +1,7 @@
+{
+    "id": 1158847769,
+    "name": "blockids",
+    "prefix": "zs",
+    "description": "Also represented as zs:*:blockids.",
+    "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158844711,
+    "name": "elevation_ft",
+    "prefix": "oa",
+    "description": "Represents an airport's elevation (in feet).",
+    "type": "string"
+}
