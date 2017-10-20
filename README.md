@@ -6,10 +6,10 @@ Click [here](properties/) to see a full list of Who's On First property prefixes
 
 ### Adding a new property
 
-1. Create a new source .json file using the [template file](properties_template.json).
+1. Create a new property .json file using the [template file](properties_template.json).
 2. Fill out all required properties and optional properties, if available.
 
-### Source Properties
+### Properties
 
 While a property .json file in the `whosonfirst-properties` repository does not require all properties listed below, the more information we are able to gather about a property, the better. When adding a new property, please provide as much current, available information about that specific property as possible.
 
