@@ -1,0 +1,7 @@
+{
+    "id": 1158847759,
+    "name": "label",
+    "prefix": "zs",
+    "description": "Also represented as zs:*:label.",
+    "type": "string"
+}

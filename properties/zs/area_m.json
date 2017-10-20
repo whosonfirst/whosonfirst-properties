@@ -1,0 +1,7 @@
+{
+    "id": 1158847771,
+    "name": "area_m",
+    "prefix": "zs",
+    "description": "Also represented as zs:*:area_m.",
+    "type": "string"
+}
