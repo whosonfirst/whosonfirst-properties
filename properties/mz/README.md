@@ -85,7 +85,11 @@ Float values (though in practice mosts are integer values) that match to web map
 
 Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.
 
-## tier_local
+## note
+
+A string value used for notes when hand-curating a given record.
+
+## tier_locality
 
 Some estimation of coverage (including descendants) and completeness, based on total number of geotagged photos.
 

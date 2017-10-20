@@ -1,0 +1,7 @@
+{
+    "id": 1158847755,
+    "name": "placetype",
+    "prefix": "zs",
+    "description": "Also represented as zs:*:placetype.",
+    "type": "string"
+}

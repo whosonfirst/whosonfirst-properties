@@ -1,0 +1,7 @@
+{
+    "id": 1158846079,
+    "name": "country_alpha3",
+    "prefix": "wof",
+    "description": "The three-letter country code from ISO 3166-1 for a given country or dependency record.",
+    "type": "string"
+}

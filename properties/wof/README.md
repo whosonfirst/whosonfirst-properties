@@ -51,9 +51,17 @@ Links two or more records with overlapping or identical geometries that serve se
 
 A two-letter country code from ISO 3166.
 
+## country_alpha3
+
+The three-letter country code from ISO 3166-1 for a given country or dependency record.
+
 ## created
 
 An auto-generated, non-editable Unix epoch timestamp integer.
+
+## fullname
+
+A property used for timezone records. The value is a more robust version of the wof:name and includes the country or continent name that the timezone geometry falls within.
 
 ## geomhash
 
@@ -66,6 +74,10 @@ A list of hashes, where each object is the list of ancestors.
 ## id
 
 The record's unique numeric integer identifier that are typically derived from [Brooklyn Integers](https://www.brooklynintegers.com).
+
+## label
+
+A string value used to populated labels for map displays.
 
 ## lang
 
@@ -84,6 +96,10 @@ One or more [ISO-639-3](http://www.i18nguy.com/unicode/language-identifiers.html
 ## lastmodified
 
 A Unix epoch timestamp integer.
+
+## megacity
+
+This is used to signify the world's most populated cities. A record represents a megacity if a value of 1 is given.
 
 ## name
 
@@ -138,6 +154,10 @@ A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placety
 
 What locals consider the placetype to be (string value).
 
+## scale
+
+A weighted value to represent the size of a given record. The smaller the value, the larger the record's scale.
+
 ## shortcode
 
 A short alphabetic code, preferring 3-characters for `country` (e.g. **USA**), 2-characters for `region` (e.g. **CA**), and either 3-characer or 2-character for `county` (e.g. **HUM** or **HU**) placetypes. Other placetypes like `venue` can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.
@@ -147,6 +167,10 @@ This property replaces the earlier `abbreviation` and is localized via [label:{l
 ## statistical_gore
 
 An optional boolean value that, when true, represents an “area” of unincorporated status without self-governance.
+
+## subdivision
+
+The value represents a concatenated identifier from the UN/LOCODE, a two-character country code and three-character feature code with a deliminator and names.
 
 ## superseded_by
 

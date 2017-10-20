@@ -1,0 +1,7 @@
+{
+    "id": 1158846081,
+    "name": "fullname",
+    "prefix": "wof",
+    "description": "A property used for timezone records. The value is a more robust version of the wof:name and includes the country or continent name that the timezone geometry falls within.",
+    "type": "string"
+}

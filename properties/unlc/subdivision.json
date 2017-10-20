@@ -1,0 +1,7 @@
+{
+    "id": 1158844931,
+    "name": "subdivision",
+    "prefix": "unlc",
+    "description": "A concatenated identifier from the UN/LOCODE, a two-character country code and three-character feature code with a deliminator and names.",
+    "type": "string"
+}

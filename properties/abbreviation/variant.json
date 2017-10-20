@@ -1,0 +1,7 @@
+{
+    "id": 1158844667,
+    "name": "{lang}_x_variant",
+    "prefix": "abbreviation",
+    "description": "An uncommon variant abbreviation used for a place.",
+    "type": "list"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158844713,
+    "name": "type",
+    "prefix": "oa",
+    "description": "Represents the airport type, used in the OA database.",
+    "type": "string"
+}

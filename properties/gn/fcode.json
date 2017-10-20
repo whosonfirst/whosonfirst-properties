@@ -1,0 +1,7 @@
+{
+    "id": 1158844685,
+    "name": "fcode",
+    "prefix": "gn",
+    "description": "Represents the GeoNames feature code, or feature type, for a given record.",
+    "type": "string"
+}

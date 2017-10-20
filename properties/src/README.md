@@ -15,4 +15,9 @@ The source of a record's `lbl` properties. Valid property values are generally d
 
 Other iterations of the `lbl` property can include `lbl:centroid` and `centroid_lbl`; these properties are specific to the label centroid of a given feature.
 
-_Example: `"src:lbl":"mapshaper"`_ or `"src:lbl:centroid":"mapshaper"`
+_Example: `"src:lbl":"mapshaper"` or `"src:lbl:centroid":"mapshaper"`_
+
+## population
+The source of a record's population value, which is stored in the wof:population property. Property values are a source name.
+
+_Example: `"src:population":"statoids"`_

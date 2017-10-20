@@ -1,0 +1,7 @@
+{
+    "id": 1158844705,
+    "name": "longitude",
+    "prefix": "mps",
+    "description": "The coordinate that specifies a label's east-west position. Longitude is a decimal number between -180.0 and 180.0.",
+    "type": "float"
+}

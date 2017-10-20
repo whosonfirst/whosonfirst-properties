@@ -1,0 +1,7 @@
+{
+    "id": 1158846087,
+    "name": "population",
+    "prefix": "wof",
+    "description": "An integer value to represent the most current, known population of a place. (related: src:population)",
+    "type": "integer"
+}

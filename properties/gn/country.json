@@ -1,0 +1,7 @@
+{
+    "id": 1158844681,
+    "name": "country",
+    "prefix": "gn",
+    "description": "The record's parent country code, represented using ISO-3166.",
+    "type": "string"
+}

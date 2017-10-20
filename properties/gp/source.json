@@ -1,0 +1,7 @@
+{
+    "id": 1158844701,
+    "name": "source",
+    "prefix": "gp",
+    "description": "The version of GeoPlanet used to import a given record.",
+    "type": "string"
+}

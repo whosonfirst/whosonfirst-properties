@@ -1,0 +1,7 @@
+{
+    "id": 1158846095,
+    "name": "hierarchy",
+    "prefix": "woe",
+    "description": "A dictionary of woe identifiers that represents a record's administrative hierarchy, as categorized in Where On Earth.",
+    "type": "dictionary"
+}

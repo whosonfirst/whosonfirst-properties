@@ -1,0 +1,7 @@
+{
+    "id": 1158844699,
+    "name": "id",
+    "prefix": "gp",
+    "description": "A unique identifier used by GeoPlanet for a given record. Typically stored as in the wof:concordances property, as well.",
+    "type": "string"
+}
