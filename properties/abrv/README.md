@@ -1,4 +1,6 @@
-# abbreviation
+# abrv
+
+`abrv` is short for "abbreviation".
 
 ## {lang}_x_colloquial
 The colloquial, informal abbreviation for a place.

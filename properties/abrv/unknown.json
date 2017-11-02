@@ -1,7 +1,7 @@
 {
     "id": 1158844677,
     "name": "{lang}_x_unknown",
-    "prefix": "abbreviation",
+    "prefix": "abrv",
     "description": "An unclassified abbreviation used for a place.",
     "type": "list"
 }
