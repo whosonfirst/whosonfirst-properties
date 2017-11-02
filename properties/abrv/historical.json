@@ -1,7 +1,7 @@
 {
     "id": 1158844669,
     "name": "{lang}_x_historical",
-    "prefix": "abbreviation",
+    "prefix": "abrv",
     "description": "The historical abbreviation for a place.",
     "type": "list"
 }
