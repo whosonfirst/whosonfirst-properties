@@ -17,7 +17,7 @@ While a property .json file in the `whosonfirst-properties` repository does not 
 
 * `"name":` The name of a given property. For example, the `qs:name` property would be `name` to represent the "name" property derived from "Quattroshapes" (_string, required property_).
 
-* `"prefix":` The [source](https://www.github.com/whosonfirst/whosonfirst-sources) that Who's On First derived this property from. For example, the `qs:name` property prefix would be `qs` to represent "Quattroshapes". This value is typically two to ten characters in length (_string, required property_).
+* `"prefix":` The [source](https://www.github.com/whosonfirst/whosonfirst-sources) that Who's On First derived this property from. For example, the `qs:name` property prefix would be `qs` to represent "Quattroshapes". This value is typically two to ten characters in length (_string, required property_) and must be unique (not shared with another source).
 
 * `"description":` A one to two sentence description of the property value (_string, optional property_).
 
