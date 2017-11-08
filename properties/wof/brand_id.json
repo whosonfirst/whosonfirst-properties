@@ -2,6 +2,6 @@
     "id": 1158859033,
     "name": "brand_id",
     "prefix": "wof",
-    "description": "A unique identifier that represents a Mapzen brand, as found in https://github.com/whosonfirst-data/whosonfirst-brands. The wof:brand_id property drives brand results for https://places.mapzen.com/.",
+    "description": "A unique identifier that represents a Mapzen brand, as found in https://github.com/whosonfirst-data/whosonfirst-brands.",
     "type": "string"
 }
