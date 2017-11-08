@@ -14,7 +14,7 @@ The (unique) set of all ancestors, as an array (list) of WOF IDs.
 
 ## brand_id
 
-A unique identifier that represents a Mapzen brand, as found in [https://github.com/whosonfirst-data/whosonfirst-brands](https://github.com/whosonfirst-data/whosonfirst-brands).",
+A unique identifier that represents a Mapzen brand, as found in [https://github.com/whosonfirst-data/whosonfirst-brands](https://github.com/whosonfirst-data/whosonfirst-brands).,
 
 ## breaches
 
