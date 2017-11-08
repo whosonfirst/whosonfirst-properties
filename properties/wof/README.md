@@ -12,6 +12,10 @@ A two-letter country code from ISO 3166.
 
 The (unique) set of all ancestors, as an array (list) of WOF IDs.
 
+## brand_id
+
+A unique identifier that represents a Mapzen brand, as found in [https://github.com/whosonfirst-data/whosonfirst-brands](https://github.com/whosonfirst-data/whosonfirst-brands). The `wof:brand_id` property drives brand results for [https://places.mapzen.com/](https://places.mapzen.com/).",
+
 ## breaches
 
 Records of the same placetype that intersect the current record, as an array (list) of WOF IDs.
