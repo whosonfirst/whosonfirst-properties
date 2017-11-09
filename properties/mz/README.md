@@ -89,6 +89,15 @@ Float values (though in practice mosts are integer values) that match to web map
 
 A string value used for notes when hand-curating a given record.
 
+## remarks
+
+The name of the markdown file containing human-readable notes for a given record. The file is stored in the same folder and contains edit notes about that record.",
+
+#### Example
+```
+data/115/885/753/1/1158857531-remarks.md
+```
+
 ## tier_locality
 
 Some estimation of coverage (including descendants) and completeness, based on total number of geotagged photos.
