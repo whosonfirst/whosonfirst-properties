@@ -91,11 +91,14 @@ A string value used for notes when hand-curating a given record.
 
 ## remarks
 
-The name of the markdown file containing human-readable notes for a given record. The file is stored in the same folder and contains edit notes about that record.",
+The name of the markdown file(s) containing human-readable notes for a given record. The file is stored in the same folder and contains edit notes about that record.
 
 #### Example
+
 ```
-data/115/885/753/1/1158857531-remarks.md
+"mz:remarks:[
+  "1158857531-remarks.md"
+]
 ```
 
 ## tier_locality
