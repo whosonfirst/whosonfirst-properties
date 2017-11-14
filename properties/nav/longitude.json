@@ -1,0 +1,7 @@
+{
+    "id": 1158860479,
+    "name": "longitude",
+    "prefix": "nav",
+    "description": "The coordinate that specifies a navigation point's east-west position. Longitude is a decimal number between -180.0 and 180.0.",
+    "type": "float"
+}

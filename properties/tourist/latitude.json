@@ -1,0 +1,7 @@
+{
+    "id": 1158860489,
+    "name": "latitude",
+    "prefix": "tourist",
+    "description": "The coordinate that specifies a 'tourist' north–south position. This value represents where a tours considers a 'place' to be. Latitude is a decimal number between -90.0 and 90.0.",
+    "type": "float"
+}

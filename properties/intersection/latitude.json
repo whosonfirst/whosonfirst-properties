@@ -1,0 +1,7 @@
+{
+    "id": 1158860485,
+    "name": "latitude",
+    "prefix": "intersection",
+    "description": "The coordinate that specifies a intersection's north–south position. Latitude is a decimal number between -90.0 and 90.0.",
+    "type": "float"
+}

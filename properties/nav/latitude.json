@@ -1,0 +1,7 @@
+{
+    "id": 1158860487,
+    "name": "latitude",
+    "prefix": "nav",
+    "description": "The coordinate that specifies a navigation point's north–south position. Latitude is a decimal number between -90.0 and 90.0.",
+    "type": "float"
+}

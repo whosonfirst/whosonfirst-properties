@@ -1,0 +1,7 @@
+{
+    "id": 1158860477,
+    "name": "longitude",
+    "prefix": "intersection",
+    "description": "The coordinate that specifies a intersection's east-west position. Longitude is a decimal number between -180.0 and 180.0.",
+    "type": "float"
+}

@@ -1,0 +1,7 @@
+{
+    "id": 1158860483,
+    "name": "latitude",
+    "prefix": "local",
+    "description": "The coordinate that specifies a 'local' north-south position. This value represents where a local resident considers a 'place'. Latitude is a decimal number between -90.0 and 90.0.",
+    "type": "float"
+}
