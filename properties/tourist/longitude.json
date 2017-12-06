@@ -1,0 +1,7 @@
+{
+    "id": 1158860481,
+    "name": "longitude",
+    "prefix": "tourist",
+    "description": "The coordinate that specifies a 'tourist' east-west position. This value represents where a tourist considers a 'place' to be. Longitude is a decimal number between -180.0 and 180.0.",
+    "type": "float"
+}
