@@ -1,10 +1,26 @@
 # Existential flags
 
-There are currently (5) existential flags for WOF documents that map to the "standard places response" (SPR) interface.
+There are currently (5) existential flags for WOF documents that map to the "standard places response" (SPR) interface. The SPR is meant to be a minimum common response for all services that provide a public interface for accessing WOF documents.
 
-Detailed rules for each flag are discussed below but at a high level it breaks down like this:
+_The SPR itself remains to be fully and properly documented._
+
+Existential flags can be used to filter records on ingest. For example the [go-whosonfirst-pip-v2]() package allows you to filter records to index by one or more existential flags:
+
+https://github.com/whosonfirst/go-whosonfirst-pip-v2/blob/master/app/indexer.go#L98-L175
+
+Or responses can be filtered to exclude records with one or more existential flags. For example the same `go-whosonfirst-pip-v2` package does this using an internal `FilterSPR` method:
+
+https://github.com/whosonfirst/go-whosonfirst-pip-v2/blob/master/filter/filter.go#L21
+
+And the [whosonfirst-www-api]() package does the same in two different places, depending on the backing service it is talking to:
+
+https://github.com/whosonfirst/whosonfirst-www-api/blob/master/www/include/lib_api_whosonfirst_places.php#L937-L987
+
+https://github.com/whosonfirst/whosonfirst-www-api/blob/master/www/include/lib_api_whosonfirst_utils.php#L231-L374
 
 ## Flags
+
+Typically all of these flags are derived from other properties in a document although any of them may be manually assigned. Detailed rules for each flag are discussed below but at a high level it breaks down like this:
 
 ### is_current
 
@@ -17,8 +33,6 @@ Detailed rules for each flag are discussed below but at a high level it breaks d
 ### is_deprecated
 
 `is_deprecated` indicates that a record is not longer considered valid and should not be used anymore. Many records that are deprecated will also be superseded by a valid record but that is not required. Genereally this value is derived by testing for the presence of the `edtf:deprecated` property.
-
-TODO : Discuss "uuuu"
 
 ### is_superseded
 
@@ -54,11 +68,11 @@ The following flags are currently _not_ part of the standard existential flags. 
 
 * mz:is_approximate
 
-* mz:is_funky
+  * mz:is_funky
 
 * mz:is_official
 
-All of these properties are manually assigned rather than derived. None of these properties are required and may not be present in a WOF document.
+All of these properties are manually assigned rather than derived. None of these properties are required and may not be present in a WOF document. It is not clear whether these should be added to the SPR.
 
 ## Interfaces
 
@@ -113,6 +127,8 @@ https://github.com/whosonfirst/go-whosonfirst-geojson-v2/blob/master/feature/geo
 (Hint: everything returns `-1`)
 
 ## Rules
+
+These are the rules that the [go-whosonfirst-geojson-v2/properties/whosonfirst]() method use for determing the value of an existential flag for a WOF GeoJSON feature:
 
 ### IsCurrent()
 
