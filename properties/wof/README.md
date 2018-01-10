@@ -153,14 +153,14 @@ An aggregated integer, 0 to 18, where the values represent the following ranges:
 If `population_rank` is not present and you are trying to derive it from other `PREFIX:properties` in a WOF feature the order of precedence is as follows:
 
 1. [wof:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/wof/README.md#population)
-2. [wd:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/wd/README.md#population)
-3. [wk:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/wkf/README.md#population)
-4. [statoids:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/statoids/README.md#population)
-5. [gn:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/gn/README.md#population)
-6. [qs:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/qs/README.md#population)
-7. [zs:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/zs/README.md#population)
-8. [meso:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/meso/README.md#population)
-9. [ne:population]((https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/ne/README.md#population)
+2. [wd:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/wd/README.md#population)
+3. [wk:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/wkf/README.md#population)
+4. [statoids:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/statoids/README.md#population)
+5. [gn:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/gn/README.md#population)
+6. [qs:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/qs/README.md#population)
+7. [zs:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/zs/README.md#population)
+8. [meso:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/meso/README.md#population)
+9. [ne:population](https://github.com/whosonfirst/whosonfirst-properties/blob/master/properties/ne/README.md#population)
 
 _As of this writing (20180110) the [py-mapzen-whosonfirst-export]() library has not been updated to auto-assign `wof:population_rank` if it is missing from a document but [it will be](https://github.com/whosonfirst/py-mapzen-whosonfirst-export/issues/15)._
 
