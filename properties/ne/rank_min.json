@@ -1,7 +1,7 @@
 {
-    "id": 1158847475,
-    "name": "rank_min",
-    "prefix": "ne",
-    "description": "",
-    "type": "string"
+  "id": 1159079267, 
+  "name": "RANK_MIN", 
+  "prefix": "ne", 
+  "description": "", 
+  "type": ""
 }
