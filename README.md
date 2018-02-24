@@ -25,5 +25,5 @@ While a property .json file in the `whosonfirst-properties` repository does not 
 
 ## See also
 
-* https://github.com/whosonfirst
 * https://github.com/whosonfirst/whosonfirst-data/issues/100
+* https://github.com/whosonfirst/go-whosonfirst-properties

@@ -1,7 +1,7 @@
 {
-    "id": 1158847351,
-    "name": "min_areakm",
-    "prefix": "ne",
-    "description": "",
-    "type": "string"
+  "id": 1159079413, 
+  "name": "MIN_AREAKM", 
+  "prefix": "ne", 
+  "description": "", 
+  "type": ""
 }

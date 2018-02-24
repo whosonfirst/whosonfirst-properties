@@ -1,7 +1,7 @@
 {
-    "id": 1158847331,
-    "name": "max_pop10",
-    "prefix": "ne",
-    "description": "",
-    "type": "string"
+  "id": 1159079385, 
+  "name": "MAX_POP10", 
+  "prefix": "ne", 
+  "description": "", 
+  "type": ""
 }
