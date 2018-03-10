@@ -1,7 +1,7 @@
 {
-  "id": 1159079271, 
-  "name": "COMPARE", 
-  "prefix": "ne", 
-  "description": "", 
+  "id": 1159079271,
+  "name": "compare",
+  "prefix": "ne",
+  "description": "",
   "type": ""
 }
