@@ -3,5 +3,5 @@
   "name": "name_en", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

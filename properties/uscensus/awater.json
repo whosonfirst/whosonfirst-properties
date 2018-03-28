@@ -3,5 +3,5 @@
   "name": "awater", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

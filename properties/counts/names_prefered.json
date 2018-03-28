@@ -3,5 +3,5 @@
   "name": "names_prefered", 
   "prefix": "counts", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

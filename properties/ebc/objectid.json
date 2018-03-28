@@ -3,5 +3,5 @@
   "name": "objectid", 
   "prefix": "ebc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

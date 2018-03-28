@@ -3,5 +3,5 @@
   "name": "names_colloquial", 
   "prefix": "counts", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

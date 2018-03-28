@@ -3,5 +3,5 @@
   "name": "name_adm2", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

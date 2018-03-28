@@ -3,5 +3,5 @@
   "name": "pub_desc", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

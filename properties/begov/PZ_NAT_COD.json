@@ -3,5 +3,5 @@
   "name": "PZ_NAT_COD", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

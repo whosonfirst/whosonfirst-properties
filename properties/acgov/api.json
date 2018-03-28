@@ -3,5 +3,5 @@
   "name": "api", 
   "prefix": "acgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

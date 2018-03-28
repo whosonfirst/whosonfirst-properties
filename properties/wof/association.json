@@ -3,5 +3,5 @@
   "name": "association", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

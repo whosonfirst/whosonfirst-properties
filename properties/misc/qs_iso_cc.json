@@ -3,5 +3,5 @@
   "name": "qs_iso_cc", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

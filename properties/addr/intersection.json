@@ -3,5 +3,5 @@
   "name": "intersection", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

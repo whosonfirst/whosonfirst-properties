@@ -3,5 +3,5 @@
   "name": "placetype", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

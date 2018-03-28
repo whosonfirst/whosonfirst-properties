@@ -3,5 +3,5 @@
   "name": "lsad", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

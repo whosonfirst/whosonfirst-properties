@@ -3,5 +3,5 @@
   "name": "href", 
   "prefix": "sg", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

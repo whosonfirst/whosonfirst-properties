@@ -3,5 +3,5 @@
   "name": "feat_area", 
   "prefix": "ebc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "names_total", 
   "prefix": "counts", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

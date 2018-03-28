@@ -3,5 +3,5 @@
   "name": "qs_woe_id", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

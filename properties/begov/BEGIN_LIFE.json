@@ -3,5 +3,5 @@
   "name": "BEGIN_LIFE", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "artist", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

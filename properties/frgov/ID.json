@@ -3,5 +3,5 @@
   "name": "ID", 
   "prefix": "frgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

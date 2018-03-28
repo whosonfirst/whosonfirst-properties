@@ -3,5 +3,5 @@
   "name": "mafia_owned", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

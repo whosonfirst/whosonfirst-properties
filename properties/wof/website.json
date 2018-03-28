@@ -3,5 +3,5 @@
   "name": "website", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

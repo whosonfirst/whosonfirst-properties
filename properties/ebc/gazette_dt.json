@@ -3,5 +3,5 @@
   "name": "gazette_dt", 
   "prefix": "ebc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

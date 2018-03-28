@@ -3,5 +3,5 @@
   "name": "admin_distict_code", 
   "prefix": "os", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

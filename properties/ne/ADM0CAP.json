@@ -3,5 +3,5 @@
   "name": "ADM0CAP", 
   "prefix": "ne", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

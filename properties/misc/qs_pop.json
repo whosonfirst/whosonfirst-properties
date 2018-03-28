@@ -3,5 +3,5 @@
   "name": "qs_pop", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

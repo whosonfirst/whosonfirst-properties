@@ -3,5 +3,5 @@
   "name": "qs_source", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

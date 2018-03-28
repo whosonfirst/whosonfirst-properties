@@ -3,5 +3,5 @@
   "name": "gkz", 
   "prefix": "atgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

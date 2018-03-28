@@ -3,5 +3,5 @@
   "name": "qs_scale", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

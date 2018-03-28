@@ -3,5 +3,5 @@
   "name": "AREA", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

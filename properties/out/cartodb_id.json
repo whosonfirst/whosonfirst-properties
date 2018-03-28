@@ -3,5 +3,5 @@
   "name": "cartodb_id", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

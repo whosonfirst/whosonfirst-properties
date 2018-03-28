@@ -3,5 +3,5 @@
   "name": "lbl_centroid", 
   "prefix": "src", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

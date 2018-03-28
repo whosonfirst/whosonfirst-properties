@@ -3,5 +3,5 @@
   "name": "is_current", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

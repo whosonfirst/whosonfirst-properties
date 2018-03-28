@@ -3,5 +3,5 @@
   "name": "POA_NAME", 
   "prefix": "ausstat", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

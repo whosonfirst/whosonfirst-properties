@@ -3,5 +3,5 @@
   "name": "phon", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

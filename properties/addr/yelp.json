@@ -3,5 +3,5 @@
   "name": "yelp", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

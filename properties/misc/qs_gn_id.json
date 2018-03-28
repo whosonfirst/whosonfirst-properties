@@ -3,5 +3,5 @@
   "name": "qs_gn_id", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "placetype_id", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

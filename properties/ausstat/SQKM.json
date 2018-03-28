@@ -3,5 +3,5 @@
   "name": "SQKM", 
   "prefix": "ausstat", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "DEP", 
   "prefix": "frgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "postal", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

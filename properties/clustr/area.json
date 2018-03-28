@@ -3,5 +3,5 @@
   "name": "area", 
   "prefix": "clustr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

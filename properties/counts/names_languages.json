@@ -3,5 +3,5 @@
   "name": "names_languages", 
   "prefix": "counts", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

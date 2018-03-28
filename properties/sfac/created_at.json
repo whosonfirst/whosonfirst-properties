@@ -3,5 +3,5 @@
   "name": "created_at", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

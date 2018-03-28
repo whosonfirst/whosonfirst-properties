@@ -3,5 +3,5 @@
   "name": "school_typ", 
   "prefix": "sfgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

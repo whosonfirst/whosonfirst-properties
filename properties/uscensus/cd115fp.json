@@ -3,5 +3,5 @@
   "name": "cd115fp", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

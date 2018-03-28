@@ -3,5 +3,5 @@
   "name": "intptlat", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

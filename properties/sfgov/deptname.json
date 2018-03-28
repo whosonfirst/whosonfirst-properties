@@ -3,5 +3,5 @@
   "name": "deptname", 
   "prefix": "sfgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }
