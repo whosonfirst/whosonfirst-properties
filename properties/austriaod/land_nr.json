@@ -1,7 +1,7 @@
 {
-  "id": 1159080115, 
-  "name": "land_nr", 
-  "prefix": "austriaod", 
-  "description": "", 
-  "type": ""
+  "id": 1159080115,
+  "name": "land_nr",
+  "prefix": "austriaod",
+  "description": "",
+  "type": "integer"
 }

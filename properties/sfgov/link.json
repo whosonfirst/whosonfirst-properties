@@ -1,7 +1,7 @@
 {
-  "id": 1159079757, 
-  "name": "link", 
-  "prefix": "sfgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079757,
+  "name": "link",
+  "prefix": "sfgov",
+  "description": "",
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079629, 
-  "name": "CODDISTRIT", 
-  "prefix": "esp-aytomad", 
-  "description": "", 
-  "type": ""
+  "id": 1159079629,
+  "name": "CODDISTRIT",
+  "prefix": "esp-aytomad",
+  "description": "",
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079675, 
-  "name": "OBJECTID", 
-  "prefix": "bra", 
-  "description": "", 
-  "type": ""
+  "id": 1159079675,
+  "name": "OBJECTID",
+  "prefix": "bra",
+  "description": "",
+  "type": "string"
 }

@@ -3,5 +3,5 @@
     "name": "tags",
     "prefix": "sg",
     "description": "",
-    "type": "string"
+    "type": "list"
 }

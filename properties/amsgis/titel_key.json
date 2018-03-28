@@ -1,7 +1,7 @@
 {
-  "id": 1159079635, 
-  "name": "titel_key", 
-  "prefix": "amsgis", 
-  "description": "", 
-  "type": ""
+  "id": 1159079635,
+  "name": "titel_key",
+  "prefix": "amsgis",
+  "description": "",
+  "type": "string"
 }

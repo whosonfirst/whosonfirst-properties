@@ -1,7 +1,7 @@
 {
-  "id": 1159079317, 
-  "name": "CITYALT", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079317,
+  "name": "CITYALT",
+  "prefix": "ne",
+  "description": "",
+  "type": "string"
 }

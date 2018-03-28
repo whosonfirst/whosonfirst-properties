@@ -1,7 +1,7 @@
 {
-  "id": 1159080133, 
-  "name": "gn_country", 
-  "prefix": "gn", 
-  "description": "", 
-  "type": ""
+  "id": 1159080133,
+  "name": "gn_country",
+  "prefix": "gn",
+  "description": "",
+  "type": "string"
 }

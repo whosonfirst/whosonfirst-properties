@@ -1,7 +1,7 @@
 {
-  "id": 1159079285, 
-  "name": "RANK_MAX", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079285,
+  "name": "RANK_MAX",
+  "prefix": "ne",
+  "description": "",
+  "type": "integer"
 }

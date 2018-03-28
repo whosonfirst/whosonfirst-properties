@@ -1,7 +1,7 @@
 {
-  "id": 1159079479, 
-  "name": "gn_nam_loc", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": ""
+  "id": 1159079479,
+  "name": "gn_nam_loc",
+  "prefix": "misc",
+  "description": "",
+  "type": "string"
 }

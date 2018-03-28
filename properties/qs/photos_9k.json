@@ -3,5 +3,5 @@
     "name": "photos_9k",
     "prefix": "qs",
     "description": "",
-    "type": "string"
+    "type": "float"
 }

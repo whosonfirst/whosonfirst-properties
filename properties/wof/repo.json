@@ -1,7 +1,7 @@
 {
-  "id": 1159079109, 
-  "name": "repo", 
-  "prefix": "wof", 
-  "description": "", 
-  "type": ""
+  "id": 1159079109,
+  "name": "repo",
+  "prefix": "wof",
+  "description": "",
+  "type": "string"
 }

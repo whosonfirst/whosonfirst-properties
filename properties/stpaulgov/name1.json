@@ -1,7 +1,7 @@
 {
-  "id": 1159079827, 
-  "name": "name1", 
-  "prefix": "stpaulgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079827,
+  "name": "name1",
+  "prefix": "stpaulgov",
+  "description": "",
+  "type": "string"
 }

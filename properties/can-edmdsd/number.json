@@ -1,7 +1,7 @@
 {
-  "id": 1159079795, 
-  "name": "number", 
-  "prefix": "can-edmdsd", 
-  "description": "", 
-  "type": ""
+  "id": 1159079795,
+  "name": "number",
+  "prefix": "can-edmdsd",
+  "description": "",
+  "type": "string"
 }

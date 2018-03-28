@@ -1,7 +1,7 @@
 {
-  "id": 1159079719, 
-  "name": "Neighborho", 
-  "prefix": "bra", 
-  "description": "", 
-  "type": ""
+  "id": 1159079719,
+  "name": "Neighborho",
+  "prefix": "bra",
+  "description": "",
+  "type": "string"
 }

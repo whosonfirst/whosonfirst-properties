@@ -1,7 +1,7 @@
 {
-  "id": 1159079621, 
-  "name": "CODBAR", 
-  "prefix": "esp-aytomad", 
-  "description": "", 
-  "type": ""
+  "id": 1159079621,
+  "name": "CODBAR",
+  "prefix": "esp-aytomad",
+  "description": "",
+  "type": "string"
 }

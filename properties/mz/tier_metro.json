@@ -1,7 +1,7 @@
 {
-  "id": 1159079525, 
-  "name": "tier_metro", 
-  "prefix": "mz", 
-  "description": "", 
-  "type": ""
+  "id": 1159079525,
+  "name": "tier_metro",
+  "prefix": "mz",
+  "description": "",
+  "type": "integer"
 }

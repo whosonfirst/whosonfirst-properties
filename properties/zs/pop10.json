@@ -3,5 +3,5 @@
     "name": "pop10",
     "prefix": "zs",
     "description": "Also represented as zs:*:pop10.",
-    "type": "string"
+    "type": "integer"
 }

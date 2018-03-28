@@ -1,7 +1,7 @@
 {
-  "id": 1159080235, 
-  "name": "is_clustr", 
-  "prefix": "mz", 
-  "description": "", 
-  "type": ""
+  "id": 1159080235,
+  "name": "is_clustr",
+  "prefix": "mz",
+  "description": "",
+  "type": "integer"
 }

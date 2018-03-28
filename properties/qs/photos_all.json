@@ -3,5 +3,5 @@
     "name": "photos_all",
     "prefix": "qs",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

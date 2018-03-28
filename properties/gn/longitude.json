@@ -3,5 +3,5 @@
     "name": "longitude",
     "prefix": "gn",
     "description": "The longitude value for a given record.",
-    "type": "string"
+    "type": "float"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079797, 
-  "name": "OBJECTID", 
-  "prefix": "can-dnvgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079797,
+  "name": "OBJECTID",
+  "prefix": "can-dnvgov",
+  "description": "",
+  "type": "string"
 }

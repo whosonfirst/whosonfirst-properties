@@ -1,7 +1,7 @@
 {
-  "id": 1159079847, 
-  "name": "NEIGH_NAME", 
-  "prefix": "can-nwds", 
-  "description": "", 
-  "type": ""
+  "id": 1159079847,
+  "name": "NEIGH_NAME",
+  "prefix": "can-nwds",
+  "description": "",
+  "type": "string"
 }

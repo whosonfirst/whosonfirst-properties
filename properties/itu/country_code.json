@@ -1,7 +1,7 @@
 {
-  "id": 1159079241, 
-  "name": "country_code", 
-  "prefix": "itu", 
-  "description": "", 
-  "type": ""
+  "id": 1159079241,
+  "name": "country_code",
+  "prefix": "itu",
+  "description": "",
+  "type": "list"
 }

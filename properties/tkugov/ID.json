@@ -1,7 +1,7 @@
 {
-  "id": 1159080069, 
-  "name": "ID", 
-  "prefix": "tkugov", 
-  "description": "", 
-  "type": ""
+  "id": 1159080069,
+  "name": "ID",
+  "prefix": "tkugov",
+  "description": "",
+  "type": "string"
 }

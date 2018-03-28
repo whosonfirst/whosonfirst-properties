@@ -1,7 +1,7 @@
 {
-  "id": 1159080141, 
-  "name": "name_adm1", 
-  "prefix": "woe", 
-  "description": "", 
-  "type": ""
+  "id": 1159080141,
+  "name": "name_adm1",
+  "prefix": "woe",
+  "description": "",
+  "type": "string"
 }

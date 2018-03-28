@@ -1,7 +1,7 @@
 {
-  "id": 1159079491, 
-  "name": "quad_count", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": ""
+  "id": 1159079491,
+  "name": "quad_count",
+  "prefix": "misc",
+  "description": "",
+  "type": "integer"
 }

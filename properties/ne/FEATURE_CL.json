@@ -1,7 +1,7 @@
 {
-  "id": 1159079449, 
-  "name": "FEATURE_CL", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079449,
+  "name": "FEATURE_CL",
+  "prefix": "ne",
+  "description": "",
+  "type": "float"
 }

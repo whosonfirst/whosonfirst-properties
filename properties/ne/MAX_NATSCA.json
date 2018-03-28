@@ -1,7 +1,7 @@
 {
-  "id": 1159079359, 
-  "name": "MAX_NATSCA", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079359,
+  "name": "MAX_NATSCA",
+  "prefix": "ne",
+  "description": "",
+  "type": "float"
 }

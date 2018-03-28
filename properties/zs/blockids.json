@@ -3,5 +3,5 @@
     "name": "blockids",
     "prefix": "zs",
     "description": "Also represented as zs:*:blockids.",
-    "type": "string"
+    "type": "list"
 }

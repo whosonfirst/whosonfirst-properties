@@ -1,7 +1,7 @@
 {
-  "id": 1159079991, 
-  "name": "SUUR_N_SE", 
-  "prefix": "hkigis", 
-  "description": "", 
-  "type": ""
+  "id": 1159079991,
+  "name": "SUUR_N_SE",
+  "prefix": "hkigis",
+  "description": "",
+  "type": "string"
 }

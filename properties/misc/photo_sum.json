@@ -1,7 +1,7 @@
 {
-  "id": 1159079493, 
-  "name": "photo_sum", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": ""
+  "id": 1159079493,
+  "name": "photo_sum",
+  "prefix": "misc",
+  "description": "",
+  "type": "integer"
 }

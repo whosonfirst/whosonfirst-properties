@@ -3,5 +3,5 @@
     "name": "classifiers",
     "prefix": "sg",
     "description": "",
-    "type": "string"
+    "type": "list"
 }
