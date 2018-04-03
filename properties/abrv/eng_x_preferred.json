@@ -3,5 +3,8 @@
   "name": "eng_x_preferred",
   "prefix": "abrv",
   "description": "",
-  "type": "list"
+  "type": "list",
+  "items": {
+      "type": "string"
+  }
 }

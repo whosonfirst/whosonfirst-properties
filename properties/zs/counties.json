@@ -3,5 +3,8 @@
     "name": "counties",
     "prefix": "zs",
     "description": "Also represented as zs:us:counties.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

@@ -3,5 +3,8 @@
     "name": "{lang}_x_historical",
     "prefix": "abrv",
     "description": "The historical abbreviation for a place.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

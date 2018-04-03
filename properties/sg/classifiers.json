@@ -3,5 +3,8 @@
     "name": "classifiers",
     "prefix": "sg",
     "description": "",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

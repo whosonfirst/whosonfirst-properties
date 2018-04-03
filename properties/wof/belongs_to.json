@@ -3,5 +3,8 @@
   "name": "belongs_to",
   "prefix": "wof",
   "description": "",
-  "type": "list"
+  "type": "list",
+  "items": {
+      "type": "integer"
+  }
 }

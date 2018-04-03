@@ -3,5 +3,8 @@
     "name": "breaches",
     "prefix": "wof",
     "description": "Records of the same placetype that intersect the current record, as an array (list) of WOF IDs.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "integer"
+    }
 }

@@ -3,5 +3,8 @@
     "name": "blockids",
     "prefix": "zs",
     "description": "Also represented as zs:*:blockids.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "integer"
+    }
 }

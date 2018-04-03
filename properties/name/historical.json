@@ -3,5 +3,9 @@
     "name": "{lang}_x_historical",
     "prefix": "name",
     "description": "The historical name for a place.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+
 }

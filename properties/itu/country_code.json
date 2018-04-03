@@ -3,5 +3,8 @@
   "name": "country_code",
   "prefix": "itu",
   "description": "",
-  "type": "list"
+  "type": "list",
+  "items": {
+      "type": "string"
+  }
 }
