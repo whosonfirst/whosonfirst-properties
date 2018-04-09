@@ -3,5 +3,8 @@
     "name": "megacity",
     "prefix": "wof",
     "description": "This is used to signify the world's most populated cities. A record represents a megacity if a value of 1 is given.",
-    "type": "string"
+    "type": "string",
+    "patterns": {
+        "value": "^[0-9]$"
+    }
 }

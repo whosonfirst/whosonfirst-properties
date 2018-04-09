@@ -3,5 +3,8 @@
   "name": "ISO_A2",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "patterns": {
+      "value": "^[A-Z]{2}$"
+  }
 }

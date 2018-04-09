@@ -7,5 +7,7 @@
     "items": {
         "type": "string"
     },
-
+    "patterns": {
+        "name": "*_x_historical"
+    }
 }

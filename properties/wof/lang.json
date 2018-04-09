@@ -6,5 +6,8 @@
     "type": "list",
     "items": {
         "type": "string"
+    },
+    "patterns": {
+        "value": "^[a-z]{3}$"
     }
 }

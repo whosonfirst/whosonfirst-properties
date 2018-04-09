@@ -3,5 +3,8 @@
   "name": "SOV_A3",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "patterns": {
+      "value": "^[A-Z]{3}$"
+  }
 }

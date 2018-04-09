@@ -3,5 +3,8 @@
   "name": "repo",
   "prefix": "wof",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "patterns": {
+      "value": "^whosonfirst-.*$"
+  }
 }
