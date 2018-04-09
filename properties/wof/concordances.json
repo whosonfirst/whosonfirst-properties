@@ -3,5 +3,8 @@
     "name": "concordances",
     "prefix": "wof",
     "description": "A hash containing identifiers from other data sources.",
-    "type": "dictionary"
+    "type": "dictionary",
+    "additionalProperties": {
+        "type": "string"
+    }
 }
