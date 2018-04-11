@@ -4,7 +4,27 @@
     "prefix": "wof",
     "description": "A hash containing identifiers from other data sources.",
     "type": "dictionary",
-    "additionalProperties": {
-        "type": "string"
+    "properties": {
+        "gn:id": {
+            "type": "integer"
+        },
+        "gp:id": {
+            "type": "integer"
+        },
+        "loc:id": {
+            "type": "string"
+        },
+        "qs:id": {
+            "type": "integer"
+        },
+        "qs_pg:id": {
+            "type": "integer"
+        },
+        "wd:id": {
+            "type": "string"
+        },
+        "wk:page": {
+            "type": "string"
+        }
     }
 }
