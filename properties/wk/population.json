@@ -3,5 +3,5 @@
     "name": "population",
     "prefix": "wk",
     "description": "The recorded population of a given record.",
-    "type": "string"
+    "type": "float"
 }
