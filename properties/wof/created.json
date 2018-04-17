@@ -3,5 +3,8 @@
     "name": "created",
     "prefix": "wof",
     "description": "An auto-generated, non-editable Unix epoch timestamp integer.",
-    "type": "integer"
+    "type": [
+        "integer",
+        "null"
+    ]
 }
