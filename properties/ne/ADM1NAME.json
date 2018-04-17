@@ -3,5 +3,8 @@
   "name": "ADM1NAME",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }

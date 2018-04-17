@@ -3,5 +3,8 @@
   "name": "NAMEPAR",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }

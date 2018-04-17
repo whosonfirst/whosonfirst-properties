@@ -3,5 +3,8 @@
   "name": "NAMEALT",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }

@@ -3,5 +3,8 @@
   "name": "FEATURE_CO",
   "prefix": "ne",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }

@@ -3,5 +3,8 @@
   "name": "FEATURE_CL",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": [
+      "string",
+      "null"
+  ]
 }
