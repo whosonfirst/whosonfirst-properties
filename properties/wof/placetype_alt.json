@@ -3,5 +3,8 @@
     "name": "placetype_alt",
     "prefix": "wof",
     "description": "A single placetype denoting alternate representations of a place (exclusive of the placetype value).",
-    "type": "string"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

@@ -3,5 +3,8 @@
   "name": "category",
   "prefix": "wof",
   "description": "",
-  "type": "string"
+  "type": "list",
+  "items": {
+      "type": "string"
+  }
 }
