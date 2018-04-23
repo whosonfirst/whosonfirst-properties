@@ -3,5 +3,5 @@
     "name": "elevation_ft",
     "prefix": "oa",
     "description": "Represents an airport's elevation (in feet).",
-    "type": "string"
+    "type": "integer"
 }
