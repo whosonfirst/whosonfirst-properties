@@ -1,7 +1,10 @@
 {
-  "id": 1159079947, 
-  "name": "qs_pop", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": "string"
+  "id": 1159079947,
+  "name": "qs_pop",
+  "prefix": "misc",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

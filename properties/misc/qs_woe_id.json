@@ -1,7 +1,10 @@
 {
-  "id": 1159079943, 
-  "name": "qs_woe_id", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": "string"
+  "id": 1159079943,
+  "name": "qs_woe_id",
+  "prefix": "misc",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }
