@@ -3,5 +3,8 @@
     "name": "formal_en",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }
