@@ -3,5 +3,5 @@
     "name": "adm0",
     "prefix": "gp",
     "description": "The record's parent admin0 record, represented using the parent record's GeoNames identifier.",
-    "type": "string"
+    "type": "integer"
 }
