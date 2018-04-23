@@ -3,5 +3,8 @@
     "name": "gadm_alt",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }
