@@ -5,6 +5,6 @@
   "description": "",
   "type": "string",
   "patterns": {
-      "value": "^[A-Z]{3}$"
+      "value": "^$|^[A-Za-z]{2}$|-99|-1"
   }
 }
