@@ -3,5 +3,5 @@
   "name": "woe_ver",
   "prefix": "misc",
   "description": "",
-  "type": "integer"
+  "type": "string"
 }
