@@ -3,5 +3,5 @@
     "name": "brk_diff",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

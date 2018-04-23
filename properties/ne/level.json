@@ -3,5 +3,5 @@
     "name": "level",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

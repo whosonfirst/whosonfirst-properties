@@ -3,5 +3,5 @@
     "name": "tiny",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

@@ -3,5 +3,5 @@
     "name": "homepart",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

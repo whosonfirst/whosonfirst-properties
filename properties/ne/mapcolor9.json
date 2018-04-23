@@ -3,5 +3,5 @@
     "name": "mapcolor9",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }
