@@ -3,5 +3,8 @@
   "name": "numac",
   "prefix": "begov",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }
