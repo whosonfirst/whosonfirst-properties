@@ -3,5 +3,8 @@
   "name": "gn_country",
   "prefix": "gn",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }
