@@ -3,5 +3,5 @@
     "name": "local_id",
     "prefix": "meso",
     "description": "",
-    "type": "integer"
+    "type": "string"
 }
