@@ -3,5 +3,5 @@
     "name": "woe_adm0",
     "prefix": "qs",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

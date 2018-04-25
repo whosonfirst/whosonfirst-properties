@@ -3,5 +3,5 @@
     "name": "name_len",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }
