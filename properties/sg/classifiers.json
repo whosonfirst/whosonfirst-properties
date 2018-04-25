@@ -5,6 +5,17 @@
     "description": "",
     "type": "list",
     "items": {
-        "type": "string"
+        "type": "dictionary",
+        "properties": {
+            "category": {
+                "type": "string"
+            },
+            "subcategory": {
+                "type": "string"
+            },
+            "type": {
+                "type": "string"
+            }
+        }
     }
 }
