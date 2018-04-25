@@ -3,5 +3,8 @@
   "name": "gn_country",
   "prefix": "qs_pg",
   "description": "",
-  "type": "string"
+  "type": [
+      "string",
+      "null"
+  ]
 }
