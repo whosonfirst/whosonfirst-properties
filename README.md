@@ -68,6 +68,7 @@ The `wof:country` property contains a ISO 3166 country code and the value of thi
 Unlike other properties, the `name` of this property has language code wildcard, denoted by `{lang}` as part of the full name. The `name` can be tested and validated by building a regular expression formed from the `prefix` value and the `patterns.name` value, as in `^name:*_x_preferred$`.
 
 The property value contains a `list` of one or more `string` elements.
+
 ## See also
 
 * https://github.com/whosonfirst/whosonfirst-data/issues/100
