@@ -3,5 +3,5 @@
   "name": "CAPALT",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

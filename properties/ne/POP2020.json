@@ -3,5 +3,5 @@
   "name": "POP2020",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

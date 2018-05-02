@@ -3,5 +3,5 @@
   "name": "CHANGED",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

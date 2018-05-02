@@ -3,5 +3,5 @@
   "name": "POP2005",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

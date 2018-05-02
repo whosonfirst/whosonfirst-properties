@@ -3,5 +3,5 @@
   "name": "MAX_POP20",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

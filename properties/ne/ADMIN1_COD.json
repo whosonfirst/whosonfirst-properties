@@ -3,5 +3,5 @@
   "name": "ADMIN1_COD",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }

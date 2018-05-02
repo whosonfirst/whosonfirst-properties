@@ -3,5 +3,5 @@
   "name": "WORLDCITY",
   "prefix": "ne",
   "description": "",
-  "type": "float"
+  "type": "integer"
 }
