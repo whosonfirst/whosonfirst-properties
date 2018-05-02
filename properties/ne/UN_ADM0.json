@@ -4,7 +4,10 @@
   "prefix": "ne",
   "description": "",
   "type": [
-      "string",
-      "null"
-  ]
+    "string",
+    "null"
+  ],
+  "patterns": {
+    "value": "^$|^[A-Za-z1-9]{3}$|-99|-1"
+  }
 }
