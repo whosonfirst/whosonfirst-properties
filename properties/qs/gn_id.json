@@ -3,8 +3,5 @@
     "name": "gn_id",
     "prefix": "qs",
     "description": "",
-    "type": [
-        "string",
-        "null"
-    ]
+    "type": "integer"
 }
