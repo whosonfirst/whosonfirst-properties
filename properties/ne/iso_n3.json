@@ -3,5 +3,5 @@
     "name": "iso_n3",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }
