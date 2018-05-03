@@ -3,5 +3,5 @@
   "name": "pop",
   "prefix": "gn",
   "description": "",
-  "type": "string"
+  "type": "integer"
 }
