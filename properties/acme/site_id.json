@@ -3,5 +3,5 @@
   "name": "site_id", 
   "prefix": "acme", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

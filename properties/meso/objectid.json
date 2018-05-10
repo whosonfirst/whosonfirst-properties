@@ -3,5 +3,5 @@
     "name": "objectid",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

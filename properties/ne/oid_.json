@@ -3,5 +3,5 @@
     "name": "oid_",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

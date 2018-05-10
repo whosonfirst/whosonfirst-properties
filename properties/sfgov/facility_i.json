@@ -3,5 +3,5 @@
   "name": "facility_i", 
   "prefix": "sfgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

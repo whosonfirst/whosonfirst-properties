@@ -1,7 +1,7 @@
 {
-  "id": 1159080167, 
-  "name": "qs_id", 
-  "prefix": "qs_pg", 
-  "description": "", 
-  "type": ""
+  "id": 1159080167,
+  "name": "qs_id",
+  "prefix": "qs_pg",
+  "description": "",
+  "type": "integer"
 }

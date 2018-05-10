@@ -1,7 +1,7 @@
 {
-  "id": 1159079783, 
-  "name": "lup_lab", 
-  "prefix": "nolagis", 
-  "description": "", 
-  "type": ""
+  "id": 1159079783,
+  "name": "lup_lab",
+  "prefix": "nolagis",
+  "description": "",
+  "type": "string"
 }

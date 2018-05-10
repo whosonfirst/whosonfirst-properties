@@ -1,7 +1,7 @@
 {
-  "id": 1159079799, 
-  "name": "MET_TECH", 
-  "prefix": "can-dnvgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079799,
+  "name": "MET_TECH",
+  "prefix": "can-dnvgov",
+  "description": "",
+  "type": "string"
 }

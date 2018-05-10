@@ -3,5 +3,5 @@
   "name": "label_text", 
   "prefix": "lflt", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

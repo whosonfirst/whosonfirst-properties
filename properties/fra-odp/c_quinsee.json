@@ -1,7 +1,7 @@
 {
-  "id": 1159079831, 
-  "name": "c_quinsee", 
-  "prefix": "fra-odp", 
-  "description": "", 
-  "type": ""
+  "id": 1159079831,
+  "name": "c_quinsee",
+  "prefix": "fra-odp",
+  "description": "",
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "gn_name", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

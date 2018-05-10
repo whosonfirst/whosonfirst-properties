@@ -3,5 +3,5 @@
   "name": "intptlon", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

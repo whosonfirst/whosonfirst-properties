@@ -3,5 +3,5 @@
   "name": "uuid", 
   "prefix": "chgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,8 @@
     "name": "note_adm0",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

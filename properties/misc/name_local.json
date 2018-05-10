@@ -3,5 +3,5 @@
   "name": "name_local", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

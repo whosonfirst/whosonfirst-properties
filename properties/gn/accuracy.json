@@ -3,5 +3,5 @@
   "name": "accuracy", 
   "prefix": "gn", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

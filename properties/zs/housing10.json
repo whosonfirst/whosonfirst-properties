@@ -3,5 +3,5 @@
     "name": "housing10",
     "prefix": "zs",
     "description": "Also represented as zs:*:housing10.",
-    "type": "string"
+    "type": "integer"
 }

@@ -3,5 +3,19 @@
     "name": "hierarchy",
     "prefix": "woe",
     "description": "A dictionary of woe identifiers that represents a record's administrative hierarchy, as categorized in Where On Earth.",
-    "type": "dictionary"
+    "type": "dictionary",
+    "properties": {
+        "country_id": {
+            "type": "integer"
+        },
+        "county_id": {
+            "type": "integer"
+        },
+        "planet_id": {
+            "type": "integer"
+        },
+        "state_id": {
+            "type": "integer"
+        }
+    }
 }

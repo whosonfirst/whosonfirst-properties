@@ -3,5 +3,5 @@
   "name": "feat_perim", 
   "prefix": "ebc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

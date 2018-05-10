@@ -3,5 +3,5 @@
   "name": "MU_NAME_FR", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

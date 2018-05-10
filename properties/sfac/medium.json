@@ -3,5 +3,5 @@
   "name": "medium", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

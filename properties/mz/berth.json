@@ -3,5 +3,5 @@
   "name": "berth", 
   "prefix": "mz", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

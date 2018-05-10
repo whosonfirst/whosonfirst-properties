@@ -1,7 +1,7 @@
 {
-  "id": 1159079345, 
-  "name": "CHANGED", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079345,
+  "name": "CHANGED",
+  "prefix": "ne",
+  "description": "",
+  "type": "integer"
 }

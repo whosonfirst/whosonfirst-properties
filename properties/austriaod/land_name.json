@@ -1,7 +1,7 @@
 {
-  "id": 1159080119, 
-  "name": "land_name", 
-  "prefix": "austriaod", 
-  "description": "", 
-  "type": ""
+  "id": 1159080119,
+  "name": "land_name",
+  "prefix": "austriaod",
+  "description": "",
+  "type": "string"
 }

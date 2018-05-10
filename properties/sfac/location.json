@@ -3,5 +3,5 @@
   "name": "location", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

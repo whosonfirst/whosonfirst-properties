@@ -3,5 +3,5 @@
   "name": "admin_county_code", 
   "prefix": "os", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

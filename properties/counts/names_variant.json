@@ -3,5 +3,5 @@
   "name": "names_variant", 
   "prefix": "counts", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

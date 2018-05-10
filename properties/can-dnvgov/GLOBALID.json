@@ -1,7 +1,7 @@
 {
-  "id": 1159079801, 
-  "name": "GLOBALID", 
-  "prefix": "can-dnvgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079801,
+  "name": "GLOBALID",
+  "prefix": "can-dnvgov",
+  "description": "",
+  "type": "string"
 }

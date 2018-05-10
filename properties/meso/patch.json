@@ -3,5 +3,5 @@
     "name": "patch",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

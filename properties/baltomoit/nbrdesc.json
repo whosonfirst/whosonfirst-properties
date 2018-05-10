@@ -1,7 +1,7 @@
 {
-  "id": 1159079701, 
-  "name": "nbrdesc", 
-  "prefix": "baltomoit", 
-  "description": "", 
-  "type": ""
+  "id": 1159079701,
+  "name": "nbrdesc",
+  "prefix": "baltomoit",
+  "description": "",
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079671, 
-  "name": "subhood", 
-  "prefix": "wapo", 
-  "description": "", 
-  "type": ""
+  "id": 1159079671,
+  "name": "subhood",
+  "prefix": "wapo",
+  "description": "",
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "source", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

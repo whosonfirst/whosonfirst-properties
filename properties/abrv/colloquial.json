@@ -3,5 +3,11 @@
     "name": "{lang}_x_colloquial",
     "prefix": "abrv",
     "description": "The colloquial, informal abbreviation for a place.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+    "patterns": {
+        "name": "*_x_colloquial"
+    }
 }

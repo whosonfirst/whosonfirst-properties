@@ -3,5 +3,8 @@
     "name": "hasc_id",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

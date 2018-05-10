@@ -3,5 +3,8 @@
     "name": "diss_me",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

@@ -3,5 +3,5 @@
     "name": "mps_y",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": "float"
 }

@@ -3,5 +3,5 @@
   "name": "bez_nr", 
   "prefix": "atgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

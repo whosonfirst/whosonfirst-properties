@@ -3,5 +3,5 @@
   "name": "elev", 
   "prefix": "acme", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

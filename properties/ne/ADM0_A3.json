@@ -1,7 +1,10 @@
 {
-  "id": 1159079397, 
-  "name": "ADM0_A3", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079397,
+  "name": "ADM0_A3",
+  "prefix": "ne",
+  "description": "",
+  "type": "string",
+  "patterns": {
+      "value": "^[A-Z]{3}$"
+  }
 }

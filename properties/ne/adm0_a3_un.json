@@ -3,5 +3,5 @@
     "name": "adm0_a3_un",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

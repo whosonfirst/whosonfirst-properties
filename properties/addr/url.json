@@ -3,5 +3,5 @@
   "name": "url", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

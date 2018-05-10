@@ -3,5 +3,8 @@
     "name": "remarks",
     "prefix": "mz",
     "description": "The name of the markdown file(s) containing human-readable notes for a given record. The file is stored in the same folder and contains edit notes about that record.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

@@ -3,5 +3,5 @@
   "name": "qs_adm0", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

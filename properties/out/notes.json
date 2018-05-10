@@ -3,5 +3,5 @@
   "name": "notes", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

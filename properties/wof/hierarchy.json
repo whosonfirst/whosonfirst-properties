@@ -3,5 +3,25 @@
     "name": "hierarchy",
     "prefix": "wof",
     "description": "A list of hashes, where each object is the list of ancestors.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "dictionary",
+        "properties": {
+            "continent_id": {
+                "type": "integer"
+            },
+            "country_id": {
+                "type": "integer"
+            },
+            "locality_id": {
+                "type": "integer"
+            },
+            "macroregion_id": {
+                "type": "integer"
+            },
+            "region_id": {
+                "type": "integer"
+            }
+        }
+    }
 }

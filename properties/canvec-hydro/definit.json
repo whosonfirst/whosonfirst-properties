@@ -1,7 +1,7 @@
 {
-  "id": 1159080121, 
-  "name": "definit", 
-  "prefix": "canvec-hydro", 
-  "description": "", 
-  "type": ""
+  "id": 1159080121,
+  "name": "definit",
+  "prefix": "canvec-hydro",
+  "description": "",
+  "type": "string"
 }

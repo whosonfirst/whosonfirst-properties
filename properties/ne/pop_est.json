@@ -3,5 +3,5 @@
     "name": "pop_est",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

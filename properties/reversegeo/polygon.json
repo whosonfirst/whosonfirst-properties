@@ -1,7 +1,7 @@
 {
-  "id": 1159079905, 
-  "name": "polygon", 
-  "prefix": "reversegeo", 
-  "description": "", 
-  "type": ""
+  "id": 1159079905,
+  "name": "polygon",
+  "prefix": "reversegeo",
+  "description": "",
+  "type": "string"
 }

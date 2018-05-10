@@ -3,5 +3,11 @@
     "name": "lang_x_spoken",
     "prefix": "wof",
     "description": "One or more ISO-639-3 language identifiers. These represent the languages, inclusive of official languages, spoken in the location of the corresponding WOF record.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+    "patterns": {
+        "value": "^[a-z]{3}$"
+    }
 }

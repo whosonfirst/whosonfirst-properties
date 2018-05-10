@@ -3,5 +3,8 @@
     "name": "controlled",
     "prefix": "wof",
     "description": "A list of Who's On First properties that should be assumed to have been edited by an actual human and should not be updated by automated processes.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

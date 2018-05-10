@@ -1,7 +1,10 @@
 {
-  "id": 1159079389, 
-  "name": "NOTE", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079389,
+  "name": "NOTE",
+  "prefix": "ne",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

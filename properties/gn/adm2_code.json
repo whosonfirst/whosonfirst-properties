@@ -3,5 +3,5 @@
   "name": "adm2_code", 
   "prefix": "gn", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

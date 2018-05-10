@@ -3,5 +3,5 @@
   "name": "INSPIRE_ID", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "NAT_CODE", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

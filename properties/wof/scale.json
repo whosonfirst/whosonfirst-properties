@@ -3,5 +3,5 @@
     "name": "scale",
     "prefix": "wof",
     "description": "A weighted value to represent the size of a given record. The smaller the value, the larger the record's scale.",
-    "type": "string"
+    "type": "integer"
 }

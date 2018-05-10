@@ -3,5 +3,12 @@
     "name": "{lang}_x_unknown",
     "prefix": "abrv",
     "description": "An unclassified abbreviation used for a place.",
-    "type": "list"
+    "pattern": "\\{(.*)\\}(_x_unknown)",
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+    "patterns": {
+        "name": "*_x_unknown"
+    }
 }

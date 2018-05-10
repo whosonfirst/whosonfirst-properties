@@ -3,5 +3,8 @@
     "name": "oktmo_code",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

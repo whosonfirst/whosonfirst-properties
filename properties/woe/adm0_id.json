@@ -1,7 +1,7 @@
 {
-  "id": 1159080131, 
-  "name": "adm0_id", 
-  "prefix": "woe", 
-  "description": "", 
-  "type": ""
+  "id": 1159080131,
+  "name": "adm0_id",
+  "prefix": "woe",
+  "description": "",
+  "type": "integer"
 }

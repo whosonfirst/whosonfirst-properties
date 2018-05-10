@@ -3,5 +3,5 @@
   "name": "", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

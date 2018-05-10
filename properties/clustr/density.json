@@ -3,5 +3,5 @@
   "name": "density", 
   "prefix": "clustr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

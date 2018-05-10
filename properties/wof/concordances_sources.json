@@ -3,5 +3,5 @@
   "name": "concordances_sources", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

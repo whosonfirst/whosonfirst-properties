@@ -1,7 +1,7 @@
 {
-  "id": 1159079725, 
-  "name": "FID_TXT", 
-  "prefix": "atldpcd", 
-  "description": "", 
-  "type": ""
+  "id": 1159079725,
+  "name": "FID_TXT",
+  "prefix": "atldpcd",
+  "description": "",
+  "type": "string"
 }

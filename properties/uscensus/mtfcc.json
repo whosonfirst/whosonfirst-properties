@@ -3,5 +3,5 @@
   "name": "mtfcc", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

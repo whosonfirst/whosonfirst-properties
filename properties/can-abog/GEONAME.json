@@ -1,7 +1,7 @@
 {
-  "id": 1159079975, 
-  "name": "GEONAME", 
-  "prefix": "can-abog", 
-  "description": "", 
-  "type": ""
+  "id": 1159079975,
+  "name": "GEONAME",
+  "prefix": "can-abog",
+  "description": "",
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079699, 
-  "name": "l_hood", 
-  "prefix": "seagv", 
-  "description": "", 
-  "type": ""
+  "id": 1159079699,
+  "name": "l_hood",
+  "prefix": "seagv",
+  "description": "",
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "nhs_regional_ha_code", 
   "prefix": "os", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "superseded", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

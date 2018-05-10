@@ -3,5 +3,8 @@
     "name": "subregion",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

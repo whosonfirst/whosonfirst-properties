@@ -3,5 +3,5 @@
   "name": "sldust", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

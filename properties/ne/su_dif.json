@@ -3,5 +3,5 @@
     "name": "su_dif",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

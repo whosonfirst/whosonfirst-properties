@@ -3,5 +3,5 @@
   "name": "hash", 
   "prefix": "geom", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

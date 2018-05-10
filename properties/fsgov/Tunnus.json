@@ -1,7 +1,7 @@
 {
-  "id": 1159080045, 
-  "name": "Tunnus", 
-  "prefix": "fsgov", 
-  "description": "", 
-  "type": ""
+  "id": 1159080045,
+  "name": "Tunnus",
+  "prefix": "fsgov",
+  "description": "",
+  "type": "string"
 }

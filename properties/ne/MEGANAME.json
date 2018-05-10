@@ -1,7 +1,10 @@
 {
-  "id": 1159079405, 
-  "name": "MEGANAME", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079405,
+  "name": "MEGANAME",
+  "prefix": "ne",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

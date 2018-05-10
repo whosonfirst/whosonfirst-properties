@@ -3,5 +3,5 @@
   "name": "qs_level", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159080215, 
-  "name": "parent_id", 
-  "prefix": "gp", 
-  "description": "", 
-  "type": ""
+  "id": 1159080215,
+  "name": "parent_id",
+  "prefix": "gp",
+  "description": "",
+  "type": "integer"
 }

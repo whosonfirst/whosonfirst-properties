@@ -3,5 +3,5 @@
     "name": "population",
     "prefix": "gn",
     "description": "The population of a given record.",
-    "type": "string"
+    "type": "integer"
 }

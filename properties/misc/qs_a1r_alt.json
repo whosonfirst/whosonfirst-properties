@@ -1,7 +1,10 @@
 {
-  "id": 1159079923, 
-  "name": "qs_a1r_alt", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": ""
+  "id": 1159079923,
+  "name": "qs_a1r_alt",
+  "prefix": "misc",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

@@ -3,5 +3,19 @@
     "name": "classifiers",
     "prefix": "sg",
     "description": "",
-    "type": "string"
+    "type": "list",
+    "items": {
+        "type": "dictionary",
+        "properties": {
+            "category": {
+                "type": "string"
+            },
+            "subcategory": {
+                "type": "string"
+            },
+            "type": {
+                "type": "string"
+            }
+        }
+    }
 }

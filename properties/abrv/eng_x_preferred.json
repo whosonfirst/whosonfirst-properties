@@ -1,7 +1,10 @@
 {
-  "id": 1159079245, 
-  "name": "eng_x_preferred", 
-  "prefix": "abrv", 
-  "description": "", 
-  "type": ""
+  "id": 1159079245,
+  "name": "eng_x_preferred",
+  "prefix": "abrv",
+  "description": "",
+  "type": "list",
+  "items": {
+      "type": "string"
+  }
 }

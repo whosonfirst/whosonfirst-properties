@@ -3,5 +3,11 @@
     "name": "{lang}_x_variant",
     "prefix": "abrv",
     "description": "An uncommon variant abbreviation used for a place.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+    "patterns": {
+        "name": "*_x_variant"
+    }
 }

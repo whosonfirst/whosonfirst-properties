@@ -3,5 +3,5 @@
   "name": "type", 
   "prefix": "geom", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

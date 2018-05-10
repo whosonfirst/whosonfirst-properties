@@ -3,5 +3,8 @@
     "name": "tags",
     "prefix": "wof",
     "description": "An array (a list) of tags.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
 }

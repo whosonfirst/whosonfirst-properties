@@ -1,7 +1,7 @@
 {
-  "id": 1159079331, 
-  "name": "MIN_BBYMIN", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079331,
+  "name": "MIN_BBYMIN",
+  "prefix": "ne",
+  "description": "",
+  "type": "float"
 }

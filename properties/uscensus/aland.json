@@ -3,5 +3,5 @@
   "name": "aland", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

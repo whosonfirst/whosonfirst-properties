@@ -1,7 +1,7 @@
 {
-  "id": 1159080035, 
-  "name": "local_id", 
-  "prefix": "figov", 
-  "description": "", 
-  "type": ""
+  "id": 1159080035,
+  "name": "local_id",
+  "prefix": "figov",
+  "description": "",
+  "type": "string"
 }

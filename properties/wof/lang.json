@@ -3,5 +3,11 @@
     "name": "lang",
     "prefix": "wof",
     "description": "IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED. It will not be removed in the short-term but nor will it be updated to added to any new or existing records. An ISO-639-3 language identifier. These represent the common, or preferred, languages spoken in the location of the corresponding WOF record.",
-    "type": "list"
+    "type": "list",
+    "items": {
+        "type": "string"
+    },
+    "patterns": {
+        "value": "^[a-z]{3}$"
+    }
 }

@@ -3,5 +3,5 @@
   "name": "credit_line", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

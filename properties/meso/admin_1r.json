@@ -3,5 +3,8 @@
     "name": "admin_1r",
     "prefix": "meso",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

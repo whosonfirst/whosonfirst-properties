@@ -3,5 +3,5 @@
   "name": "PZ_NAME_FR", 
   "prefix": "begov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "categories", 
   "prefix": "sg", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -1,7 +1,7 @@
 {
-  "id": 1159079533, 
-  "name": "longitude", 
-  "prefix": "goem", 
-  "description": "", 
-  "type": ""
+  "id": 1159079533,
+  "name": "longitude",
+  "prefix": "goem",
+  "description": "",
+  "type": "float"
 }

@@ -3,5 +3,5 @@
   "name": "positional_quality_indicator", 
   "prefix": "os", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

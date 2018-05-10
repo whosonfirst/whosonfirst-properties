@@ -1,7 +1,7 @@
 {
-  "id": 1159079411, 
-  "name": "POP2020", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079411,
+  "name": "POP2020",
+  "prefix": "ne",
+  "description": "",
+  "type": "integer"
 }

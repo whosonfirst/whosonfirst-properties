@@ -1,7 +1,7 @@
 {
-  "id": 1159080175, 
-  "name": "photos_all", 
-  "prefix": "qs_pg", 
-  "description": "", 
-  "type": ""
+  "id": 1159080175,
+  "name": "photos_all",
+  "prefix": "qs_pg",
+  "description": "",
+  "type": "integer"
 }

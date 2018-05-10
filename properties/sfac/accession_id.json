@@ -3,5 +3,5 @@
   "name": "accession_id", 
   "prefix": "sfac", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

@@ -3,5 +3,5 @@
   "name": "phone", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

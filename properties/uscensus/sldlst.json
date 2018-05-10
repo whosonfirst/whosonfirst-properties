@@ -3,5 +3,5 @@
   "name": "sldlst", 
   "prefix": "uscensus", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

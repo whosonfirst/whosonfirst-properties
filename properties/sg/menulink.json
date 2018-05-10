@@ -3,5 +3,5 @@
   "name": "menulink", 
   "prefix": "sg", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

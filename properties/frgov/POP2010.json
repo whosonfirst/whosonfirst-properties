@@ -3,5 +3,5 @@
   "name": "POP2010", 
   "prefix": "frgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

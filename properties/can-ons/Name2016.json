@@ -1,7 +1,7 @@
 {
-  "id": 1159079543, 
-  "name": "Name2016", 
-  "prefix": "can-ons", 
+  "id": 1159079543,
+  "name": "Name2016",
+  "prefix": "can-ons",
   "description": "", 
-  "type": ""
+  "type": "string"
 }

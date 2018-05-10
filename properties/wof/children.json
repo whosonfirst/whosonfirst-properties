@@ -1,7 +1,10 @@
 {
-  "id": 1159079919, 
-  "name": "children", 
-  "prefix": "wof", 
-  "description": "", 
-  "type": ""
+  "id": 1159079919,
+  "name": "children",
+  "prefix": "wof",
+  "description": "",
+  "type": "list",
+  "items": {
+      "type": "integer"
+  }
 }

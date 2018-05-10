@@ -3,5 +3,5 @@
   "name": "membership", 
   "prefix": "out", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

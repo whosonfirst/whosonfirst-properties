@@ -1,7 +1,10 @@
 {
-  "id": 1159079363, 
-  "name": "TIMEZONE", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079363,
+  "name": "TIMEZONE",
+  "prefix": "ne",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

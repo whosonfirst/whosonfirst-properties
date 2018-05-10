@@ -3,5 +3,5 @@
   "name": "categories", 
   "prefix": "wof", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

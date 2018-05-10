@@ -1,7 +1,10 @@
 {
-  "id": 1159079287, 
-  "name": "ISO_A2", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079287,
+  "name": "ISO_A2",
+  "prefix": "ne",
+  "description": "",
+  "type": "string",
+  "patterns": {
+      "value": "^$|^[A-Za-z]{2}$|-99|-1"
+  }
 }

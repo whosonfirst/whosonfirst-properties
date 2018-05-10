@@ -1,7 +1,7 @@
 {
-  "id": 1159079435, 
-  "name": "UN_LONG", 
-  "prefix": "ne", 
-  "description": "", 
-  "type": ""
+  "id": 1159079435,
+  "name": "UN_LONG",
+  "prefix": "ne",
+  "description": "",
+  "type": "float"
 }

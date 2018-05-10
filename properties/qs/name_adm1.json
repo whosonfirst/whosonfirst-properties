@@ -3,5 +3,8 @@
     "name": "name_adm1",
     "prefix": "qs",
     "description": "",
-    "type": "string"
+    "type": [
+        "string",
+        "null"
+    ]
 }

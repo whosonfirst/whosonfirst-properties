@@ -1,7 +1,7 @@
 {
-  "id": 1159079875, 
-  "name": "ID", 
-  "prefix": "oulugov", 
-  "description": "", 
-  "type": ""
+  "id": 1159079875,
+  "name": "ID",
+  "prefix": "oulugov",
+  "description": "",
+  "type": "string"
 }

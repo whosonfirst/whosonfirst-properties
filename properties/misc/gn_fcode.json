@@ -3,5 +3,5 @@
   "name": "gn_fcode", 
   "prefix": "misc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

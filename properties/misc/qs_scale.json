@@ -1,7 +1,10 @@
 {
-  "id": 1159079953, 
-  "name": "qs_scale", 
-  "prefix": "misc", 
-  "description": "", 
-  "type": ""
+  "id": 1159079953,
+  "name": "qs_scale",
+  "prefix": "misc",
+  "description": "",
+  "type": [
+      "string",
+      "null"
+  ]
 }

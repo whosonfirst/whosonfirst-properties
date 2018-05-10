@@ -1,7 +1,7 @@
 {
-  "id": 1159080101, 
-  "name": "oppervl", 
-  "prefix": "begov", 
-  "description": "", 
-  "type": ""
+  "id": 1159080101,
+  "name": "oppervl",
+  "prefix": "begov",
+  "description": "",
+  "type": "float"
 }

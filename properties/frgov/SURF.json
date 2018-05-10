@@ -3,5 +3,5 @@
   "name": "SURF", 
   "prefix": "frgov", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

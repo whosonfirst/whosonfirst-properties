@@ -3,5 +3,5 @@
   "name": "ed_abbrev", 
   "prefix": "ebc", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

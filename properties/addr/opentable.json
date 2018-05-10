@@ -3,5 +3,5 @@
   "name": "opentable", 
   "prefix": "addr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

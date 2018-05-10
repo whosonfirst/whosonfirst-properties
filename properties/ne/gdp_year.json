@@ -3,5 +3,5 @@
     "name": "gdp_year",
     "prefix": "ne",
     "description": "",
-    "type": "string"
+    "type": "integer"
 }

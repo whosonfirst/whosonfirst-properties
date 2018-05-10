@@ -1,7 +1,7 @@
 {
-  "id": 1159080079, 
-  "name": "display", 
-  "prefix": "amsgis", 
+  "id": 1159080079,
+  "name": "display",
+  "prefix": "amsgis",
   "description": "", 
-  "type": ""
+  "type": "string"
 }

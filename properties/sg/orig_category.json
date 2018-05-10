@@ -3,5 +3,5 @@
   "name": "orig_category", 
   "prefix": "sg", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }

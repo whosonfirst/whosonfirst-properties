@@ -3,5 +3,5 @@
   "name": "alpha", 
   "prefix": "clustr", 
   "description": "", 
-  "type": ""
+  "type": "string"
 }
