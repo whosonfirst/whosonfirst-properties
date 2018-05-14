@@ -1,7 +1,9 @@
 {
-  "id": 1159080455, 
-  "name": "superseded", 
-  "prefix": "wof", 
-  "description": "", 
-  "type": "string"
+  "id": 1159080455,
+  "name": "superseded",
+  "prefix": "wof",
+  "description": "",
+  "type": "string",
+  "edtf:deprecated": "2018-05-14",
+  "mz:is_current": 0
 }
