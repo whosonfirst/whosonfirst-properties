@@ -23,7 +23,7 @@ While a property .json file in the `whosonfirst-properties` repository does not 
 
 * `"type":` The property value type - `string`, `list`, `dictionary`, `float`, or `integer` (_string, required property_).
 
-* `"items":` For properties with a `list` or `dictionary` `"type"`, the type of item contained within the `list` or `dictionary` (_string, optional property).
+* `"items":` For properties with a `list` or `dictionary` `"type"`, the type of item contained within the `list` or `dictionary` (_string, optional property_).
 
 * `"patterns":` A regular expression which can be used to validate the property's `name`, the property's _value_ or both. The `"patterns"` property is an object which can contain up to two key/value pairs; `patterns.name` validates the property's `name` and `patterns.value` validates the property's value. See also _Examples_ below.
 
