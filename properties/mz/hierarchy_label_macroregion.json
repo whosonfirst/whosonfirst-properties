@@ -1,0 +1,7 @@
+{
+    "id": 1159340183,
+    "name": "hierarchy_label_macroregion",
+    "prefix": "mz",
+    "description": "Used when generating place labels in geocoding software, like Pelias; this property defaults to True unless it is set to 0 manually. When Pelias decorates an address string, this property is used to determine whether the macroregion is included in that address string.",
+    "type": "integer"
+}

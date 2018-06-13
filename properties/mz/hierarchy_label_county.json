@@ -1,0 +1,7 @@
+{
+    "id": 1159340191,
+    "name": "hierarchy_label_county",
+    "prefix": "mz",
+    "description": "Used when generating place labels in geocoding software, like Pelias; this property defaults to True unless it is set to 0 manually. When Pelias decorates an address string, this property is used to determine whether the county is included in that address string.",
+    "type": "integer"
+}

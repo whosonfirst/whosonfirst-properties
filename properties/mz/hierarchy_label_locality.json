@@ -1,0 +1,7 @@
+{
+    "id": 1159340187,
+    "name": "hierarchy_label_locality",
+    "prefix": "mz",
+    "description": "Used when generating place labels in geocoding software, like Pelias; this property defaults to True unless it is set to 0 manually. When Pelias decorates an address string, this property is used to determine whether the locality is included in that address string.",
+    "type": "integer"
+}
