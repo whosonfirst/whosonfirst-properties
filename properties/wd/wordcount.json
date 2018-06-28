@@ -2,6 +2,6 @@
     "id": 1159343987,
     "name": "wordcount",
     "prefix": "wd",
-    "description": "The wordcount of the linked Wikipedia page for this record. The Wikipedia page can be found in the wof:concordances property.",
+    "description": "The wordcount of the linked Wikipedia page (usually English) for this record. The Wikipedia page can be found in the `wof:concordances` property.",
     "type": "integer"
 }
