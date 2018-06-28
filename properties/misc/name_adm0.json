@@ -2,6 +2,7 @@
   "id": 1159079483, 
   "name": "name_adm0", 
   "prefix": "misc", 
-  "description": "", 
+  "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": "string"
 }

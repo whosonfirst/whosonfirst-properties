@@ -2,6 +2,7 @@
   "id": 1159079955, 
   "name": "qs_iso_cc", 
   "prefix": "misc", 
-  "description": "", 
+  "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": "string"
 }

@@ -3,5 +3,6 @@
   "name": "woe_funk",
   "prefix": "misc",
   "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": "string"
 }
