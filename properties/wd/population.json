@@ -1,0 +1,7 @@
+{
+    "id": 1158846109,
+    "name": "population",
+    "prefix": "wd",
+    "description": "The recorded population of a given record.",
+    "type": "float"
+}

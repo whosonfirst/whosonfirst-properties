@@ -1,0 +1,7 @@
+{
+    "id": 1158846099,
+    "name": "elevation",
+    "prefix": "wd",
+    "description": "Represents a record's recorded elevation. Represented in meters (m).",
+    "type": "float"
+}

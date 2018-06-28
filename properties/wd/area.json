@@ -1,0 +1,7 @@
+{
+    "id": 1158846097,
+    "name": "area",
+    "prefix": "wd",
+    "description": "The area of a given record, as recorded by Wikidata. Represented as kilometers squared (km2).",
+    "type": "float"
+}
