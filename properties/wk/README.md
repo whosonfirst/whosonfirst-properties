@@ -1,6 +1,8 @@
 # wk
 
-`wk` stands for Wikipedia
+`wk` stands for Wikipedia.
+
+**IMPORTANT: THIS PROPERTY PREFIX HAS BEEN DEPRECATED.** See the `wd` prefix.
 
 ## wk:area
 

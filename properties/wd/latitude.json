@@ -1,8 +1,7 @@
 {
-    "id": 1158846101,
-    "name": "lat",
-    "prefix": "wk",
+    "id": 1159343995,
+    "name": "latitude",
+    "prefix": "wd",
     "description": "The coordinate that specifies a label's north–south position. Latitude is a decimal number between -90.0 and 90.0.",
-    "edtf:deprecated": "2018-06-28",
-    "type": "string"
+    "type": "float"
 }

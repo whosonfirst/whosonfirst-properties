@@ -1,8 +1,7 @@
 {
-    "id": 1158846109,
+    "id": 1159343989,
     "name": "population",
-    "prefix": "wk",
+    "prefix": "wd",
     "description": "The recorded population of a given record.",
-    "edtf:deprecated": "2018-06-28",
     "type": "float"
 }
