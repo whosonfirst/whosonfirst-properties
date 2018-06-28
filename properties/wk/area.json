@@ -3,5 +3,6 @@
     "name": "area",
     "prefix": "wk",
     "description": "The area of a given record, as recorded by Wikipedia. Represented as kilometers squared (km2).",
+    "edtf:deprecated": "2018-06-28",
     "type": "float"
 }

@@ -3,5 +3,6 @@
     "name": "elevation",
     "prefix": "wk",
     "description": "Represents a record's recorded elevation. Represented in meters (m).",
+    "edtf:deprecated": "2018-06-28",
     "type": "float"
 }

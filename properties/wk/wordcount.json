@@ -3,5 +3,6 @@
     "name": "wordcount",
     "prefix": "wk",
     "description": "The wordcount of the linked Wikipedia page for this record. The Wikipedia page can be found in the wof:concordances property.",
+    "edtf:deprecated": "2018-06-28",
     "type": "integer"
 }
