@@ -3,6 +3,7 @@
   "name": "qs_pop",
   "prefix": "misc",
   "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": [
       "string",
       "null"

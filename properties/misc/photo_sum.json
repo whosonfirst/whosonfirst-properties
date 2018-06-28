@@ -3,5 +3,6 @@
   "name": "photo_sum",
   "prefix": "misc",
   "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": "integer"
 }

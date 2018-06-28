@@ -3,5 +3,6 @@
   "name": "gn_nam_loc",
   "prefix": "misc",
   "description": "",
+  "edtf:deprecated": "2018-06-28",
   "type": "string"
 }
