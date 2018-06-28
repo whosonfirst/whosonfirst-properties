@@ -24,4 +24,4 @@ The recorded population of a given record.
 
 ## wd:wordcount
 
-The wordcount of the linked Wikipedia page for this record. The Wikipedia page can be found in the wof:concordances property.
+The wordcount of the linked Wikipedia page (usually English) for this record. The Wikipedia page can be found in the `wof:concordances` property.
