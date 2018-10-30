@@ -1,0 +1,7 @@
+{
+    "id": 1360698519,
+    "name": "{lang}_x_variant_longname",
+    "prefix": "label",
+    "description": "The variant longname labels for a place (inclusive of placetype), as a muilti element list. Always append the feature's placetype to the preferred name. The placetype should be Title Case and not include the value of the preferred longname. Common values can include the translated placetype (Territory) instead of the transliterated placetype (eg Oblast).",
+    "type": "list"
+}
