@@ -81,7 +81,7 @@ _Example: eng_x_preferred_longname_
 
 ```
 "label:eng_x_preferred_longname": ["Tomskaja Oblast"]
-"label:eng_x_preferred_longname": ["Almería Province"]
+"label:eng_x_preferred_longname": ["Almeria Province"]
 "label:eng_x_preferred_longname": ["California State"]
 ```
 
