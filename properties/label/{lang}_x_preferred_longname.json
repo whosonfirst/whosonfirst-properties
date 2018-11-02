@@ -1,0 +1,7 @@
+{
+    "id": 1360698519,
+    "name": "{lang}_x_preferred_longname",
+    "prefix": "label",
+    "description": "The preferred longname label for a place (inclusive of placetype), in practice a single element list. Always append the feature's placetype to the preferred name. We generally prefer the transliterated placetype (eg Oblast) over the translated placetype (Territory), and the placetype should be Title Case. In the case of California we'd expect this value to be California State instead of State of California.",
+    "type": "list"
+}

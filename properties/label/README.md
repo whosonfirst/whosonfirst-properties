@@ -73,6 +73,18 @@ _Example: kor_x_preferred_disambiguation_
 "label:eng_x_variant_disambiguation": ["Portland (Oregon)"]
 ```
 
+## {lang}_x_preferred_longname
+
+The preferred longname label for a place (inclusive of placetype), in practice a single element list. Always append the feature's placetype to the preferred name. We generally prefer the transliterated placetype (eg Oblast) over the translated placetype (Territory), and the placetype should be Title Case. In the case of California we'd expect this value to be California State instead of State of California.
+
+_Example: eng_x_preferred_longname_
+
+```
+"label:eng_x_preferred_longname": ["Tomskaja Oblast"]
+"label:eng_x_preferred_longname": ["Almeria Province"]
+"label:eng_x_preferred_longname": ["California State"]
+```
+
 ## {lang}_x_preferred_placetype
 
 A feature's "preferred" placetype label (exclusive of place name and hierarchy), in practice a single element list. While `wof:placetype` is an enumerated value, this localized value is a string.
@@ -141,6 +153,18 @@ _Example: deu_x_variant_disambiguation_
 "label:eng_x_variant_disambiguation": ["Portland (ME)"]
 "label:eng_x_variant_disambiguation": ["Portland (OR)", "Portland (Ore.)"]
 ```
+
+## {lang}_x_variant_longname
+
+The variant longname labels for a place (inclusive of placetype), as a multi element list. Always append the feature's placetype to the preferred name. The placetype should be Title Case and not include the value of the preferred longname. Common values can include the translated placetype (Territory) instead of the transliterated placetype (eg Oblast).
+
+_Example: eng_x_variant_longname_
+
+```
+"label:eng_x_variant_longname": ["Tomskaja Territory, Tomsk Territory"]
+"label:eng_x_variant_longname": ["Kronoberg county"]
+```
+
 
 ## {lang}_x_variant_placetype
 
