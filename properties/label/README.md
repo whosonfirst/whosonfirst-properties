@@ -156,13 +156,13 @@ _Example: deu_x_variant_disambiguation_
 
 ## {lang}_x_variant_longname
 
-The variant longname labels for a place (inclusive of placetype), as a muilti element list. Always append the feature's placetype to the preferred name. The placetype should be Title Case and not include the value of the preferred longname. Common values can include the translated placetype (Territory) instead of the transliterated placetype (eg Oblast).
+The variant longname labels for a place (inclusive of placetype), as a multi element list. Always append the feature's placetype to the preferred name. The placetype should be Title Case and not include the value of the preferred longname. Common values can include the translated placetype (Territory) instead of the transliterated placetype (eg Oblast).
 
 _Example: eng_x_variant_longname_
 
 ```
-"label:eng_x_preferred_longname": ["Tomskaja Territory, Tomsk Territory"]
-"label:eng_x_preferred_longname": ["Kronoberg county"]
+"label:eng_x_variant_longname": ["Tomskaja Territory, Tomsk Territory"]
+"label:eng_x_variant_longname": ["Kronoberg county"]
 ```
 
 
