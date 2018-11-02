@@ -1,0 +1,10 @@
+{
+    "id": 1360698733,
+    "name": "geom_via",
+    "prefix": "src",
+    "description": "A value representing the original geometry's source. Typically used when a source geometry is clipped, simplified, or slightly modified.",
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
+}
