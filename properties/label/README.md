@@ -67,10 +67,10 @@ The "preferred" disambiguation label for a place (exclusive of hierarchy), in pr
 _Example: kor_x_preferred_disambiguation_
 
 ```
-"label:eng_x_variant_disambiguation": ["Fairfax city"]
-"label:eng_x_variant_disambiguation": ["Fairfax county"]
-"label:eng_x_variant_disambiguation": ["Portland (Maine)"]
-"label:eng_x_variant_disambiguation": ["Portland (Oregon)"]
+"label:eng_x_preferred_disambiguation": ["Fairfax city"]
+"label:eng_x_preferred_disambiguation": ["Fairfax county"]
+"label:eng_x_preferred_disambiguation": ["Portland (Maine)"]
+"label:eng_x_preferred_disambiguation": ["Portland (Oregon)"]
 ```
 
 ## {lang}_x_preferred_longname
@@ -112,7 +112,7 @@ _Example: eng_x_preferred_shortcode_
 "label:eng_x_preferred_shortcode": ["VA"]
 "label:eng_x_preferred_shortcode": ["SFO"]
 "label:eng_x_preferred_shortcode": ["SF"]
-"label:eng_x_variant_shortcode": ["HUM"]
+"label:eng_x_preferred_shortcode": ["HUM"]
 ```
 
 _WARNING: do not confuse `{lang}_x_preferred_shortcode` and `wof:shortcode` properties with the deprecated `wof:abbreviation` or `wof:country_alpha3` properties._
@@ -173,7 +173,7 @@ Uncommon "variant" placetype labels (exclusive of hierarchy). While `wof:placety
 _Example: deu_x_variant_placetype_
 
 ```
-"label:eng_x_preferred_placetype": ["Parish"]
+"label:eng_x_variant_placetype": ["Parish"]
 "label:eng_x_variant_placetype": ["LGA", "lga", "L.G.A.", "l.g.a.", "local gov't area"]
 ```
 
