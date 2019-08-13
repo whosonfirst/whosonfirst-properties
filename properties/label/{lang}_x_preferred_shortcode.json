@@ -2,6 +2,6 @@
     "id": 1158808165,
     "name": "{lang}_x_preferred_shortcode",
     "prefix": "label",
-    "description": "A feature's preferred localized shortcode that takes precedence over wof:shortcode (exclusive of place name and hierarchy), in practice a single element list. A short alphabetic code, preferring 3-characters for country (e.g. USA), 2-characters for region (e.g. CA), and either 3-characer or 2-character for county (e.g. HUM or HU) placetypes. Other placetypes like venue can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.",
+    "description": "A feature's preferred localized shortcode that takes precedence over wof:shortcode (exclusive of place name and hierarchy), in practice a single element list. A short alphabetic code, preferring 3-characters for country (e.g. USA), 2-characters for region (e.g. CA), and either 3-character or 2-character for county (e.g. HUM or HU) placetypes. Other placetypes like venue can also have shortcodes but their length is not standardized, and they may contain alphanumeric values.",
     "type": "list"
 }
