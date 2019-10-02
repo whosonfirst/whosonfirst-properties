@@ -1,0 +1,7 @@
+{
+    "id": 1495044599,
+    "name": "population_date",
+    "prefix": "src",
+    "description": "The date representing when a record's population value was catalogued.",
+    "type": "string"
+}
