@@ -78,6 +78,10 @@ In English, using characters in the Latin-1 character set. Other characters, suc
 
 Most recent census figures available. Where no census is available, most recent estimates available. When subdivisions split, often shows a cross-reference to the other fragment.
 
+## population_date
+
+A value derived from Statoids that signifies the date at which the population value was gathered. The value follows the _YYYY-MM-DD_ format.
+
 ## statoid
 
 Level-3 hierarchical administrative subdivision code, defined by Statoids, used as a primary key for this table.
