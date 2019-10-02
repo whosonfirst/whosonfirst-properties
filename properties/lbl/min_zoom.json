@@ -1,0 +1,7 @@
+{
+    "id": 1495037863,
+    "name": "min_zoom",
+    "prefix": "lbl",
+    "description": "When the feature's label should first appear. Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.",
+    "type": "float"
+}
