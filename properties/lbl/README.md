@@ -1,5 +1,5 @@
 # lbl
-Most properties listed below are derived from [Mapshaper](https://github.com/mbloch/mapshaper).
+Most properties listed below contain explicit, curated values.
 
 ## latitude
 The coordinate that specifies a label's north–south position. Latitude is a decimal number between _-90.0_ and _90.0_.
