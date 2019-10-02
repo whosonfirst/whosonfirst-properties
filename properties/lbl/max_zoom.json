@@ -2,6 +2,6 @@
     "id": 1495037865,
     "name": "max_zoom",
     "prefix": "lbl",
-    "description": "Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.",
+    "description": "When the feature's label should be removed (or switched to a different representation like exterior ring labels). Float values (though in practice mosts are integer values) that match to web map zoom schema. Common range is 0.0 to 18.0, though they can be greater.",
     "type": "float"
 }
