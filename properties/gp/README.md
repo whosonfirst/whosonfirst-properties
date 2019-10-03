@@ -2,7 +2,7 @@
 
 ## adm0
 
-The record's parent `admin0` record, represented using the parent record's GeoNames identifier.
+The record's parent `admin0` record, represented using the parent record's GeoPlanet identifier.
 
 _Example: `"gp:country":"23424848"`_
 
