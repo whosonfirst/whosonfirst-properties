@@ -1,0 +1,7 @@
+{
+    "id": 1495037873,
+    "name": "population_date",
+    "prefix": "statoids",
+    "description": "A value derived from Statoids that signifies the date at which the population value was gathered. The value follows the YYYY-MM-DD format.",
+    "type": "string"
+}

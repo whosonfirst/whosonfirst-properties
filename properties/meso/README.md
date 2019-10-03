@@ -193,3 +193,6 @@
 ## type_loc
 
 ## type_local
+
+## wof_id
+A Mesoshapes-derived value of a Who's On First `wof:id` property value. This `wof:id` represents the identifier of a 'matched' Who's On First record that was found during importing of the Mesoshapes data.
