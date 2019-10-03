@@ -2,6 +2,6 @@
     "id": 1495044599,
     "name": "population_date",
     "prefix": "src",
-    "description": "The date representing when a record's population value was catalogued.",
+    "description": "The date representing when a record's population value was catalogued. Property value is typically formatted in an EDTF format, like `YYYY-MM-DD` or `YYYY`.",
     "type": "string"
 }
