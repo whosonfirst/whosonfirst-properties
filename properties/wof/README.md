@@ -79,7 +79,7 @@ A list of hashes, where each object is the list of ancestors.
 
 ## id
 
-The record's unique numeric integer identifier that are typically derived from [Brooklyn Integers](https://www.brooklynintegers.com).
+The record's unique numeric integer identifier, typically derived from [Brooklyn Integers](https://www.brooklynintegers.com).
 
 ## label
 
