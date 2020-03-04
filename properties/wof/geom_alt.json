@@ -1,0 +1,7 @@
+{
+    "id": 1712374175,
+    "name": "geom_alt",
+    "prefix": "wof",
+    "description": "A list of each of the record's alt-geometry files' filenames, minus the '{ID}-alt' prefix and '.geojson' suffix. Each alt-geometry file's '{SOURCE}-{FUNCTION}-{EXTRAS}' will be listed.",
+    "type": "list"
+}

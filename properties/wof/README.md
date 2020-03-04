@@ -69,6 +69,10 @@ An auto-generated, non-editable Unix epoch timestamp integer.
 
 A property used for timezone records. The value is a more robust version of the wof:name and includes the country or continent name that the timezone geometry falls within.
 
+## geom_alt
+
+A list of each of the record's alt-geometry files' filenames, minus the '{ID}-alt' prefix and '.geojson' suffix. Each alt-geometry file's '{SOURCE}-{FUNCTION}-{EXTRAS}' will be listed.
+
 ## geomhash
 
 An auto-generated, non-editable MD5 string of the geometry JSON.
