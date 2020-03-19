@@ -180,6 +180,10 @@ A list of string [placetypes](https://github.com/whosonfirst/whosonfirst-placety
 
 What locals consider the placetype to be (string value).
 
+## repo
+
+A string label containing the full name of the parent repository housing the record.
+
 ## scale
 
 A weighted value to represent the size of a given record. The smaller the value, the larger the record's scale.

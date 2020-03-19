@@ -2,7 +2,7 @@
   "id": 1159079109,
   "name": "repo",
   "prefix": "wof",
-  "description": "",
+  "description": "A string label containing the full name of the parent repository housing the record.",
   "type": "string",
   "patterns": {
       "value": "^whosonfirst-.*$"
