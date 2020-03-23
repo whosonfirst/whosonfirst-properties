@@ -1,0 +1,7 @@
+{
+  "id": 1712952399, 
+  "name": "district_code", 
+  "prefix": "os", 
+  "description": "Unitary Authority, Metropolitan and Non- Metropolitan District, London Borough or Scottish Council Area in which CPLC falls.", 
+  "type": "string"
+}
