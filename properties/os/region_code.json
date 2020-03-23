@@ -1,0 +1,7 @@
+{
+  "id": 1712952401, 
+  "name": "region_code", 
+  "prefix": "os", 
+  "description": "The code used by ONS to identify the region in which the Code-Point georeference lies.",
+  "type": "string"
+}

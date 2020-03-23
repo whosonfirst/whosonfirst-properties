@@ -2,6 +2,6 @@
   "id": 1159080299, 
   "name": "country_code", 
   "prefix": "os", 
-  "description": "", 
+  "description": "The code used by ONS to identify the country in which the Code-Point georeference lies.", 
   "type": "string"
 }

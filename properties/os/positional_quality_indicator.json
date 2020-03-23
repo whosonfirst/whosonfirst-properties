@@ -2,6 +2,6 @@
   "id": 1159080303, 
   "name": "positional_quality_indicator", 
   "prefix": "os", 
-  "description": "", 
+  "description": "A value indicating the positional accuracy of the Code-Point coordinates.", 
   "type": "string"
 }
