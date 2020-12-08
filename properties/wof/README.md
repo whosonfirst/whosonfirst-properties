@@ -28,7 +28,7 @@ A list property used to link country or dependency records to their administrati
 
 ## capital_of
 
-A list property used to link administrative, judicial, and/or legislative capitals to their parent administrative record. The values are equal to the `wof:id` of each parent administrative record. This property can be present on any placetype (including `region` and `county`), but is typically found on `country` and `dependency` records.
+A list property used to link administrative, judicial, and/or legislative capitals to their parent administrative record. The values are equal to the `wof:id` of the parent administrative record(s) it is capital of. This property can be present on any placetype (including `region` and `county`), but is typically found on `country` and `dependency` records.
 
 ## concordances
 
