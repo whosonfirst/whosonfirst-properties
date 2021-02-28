@@ -2,7 +2,7 @@
   "id": 1159079241,
   "name": "country_code",
   "prefix": "itu",
-  "description": "",
+  "description": "ITU E.164 Country code. https://en.wikipedia.org/wiki/Telephone_numbering_plan",
   "type": "list",
   "items": {
       "type": "string"
