@@ -2,6 +2,6 @@
   "id": 1159079251,
   "name": "region",
   "prefix": "itu",
-  "description": "",
+  "description": "ITU E.164 Area code. https://en.wikipedia.org/wiki/Telephone_numbering_plan",
   "type": "string"
 }
