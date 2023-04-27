@@ -2,6 +2,6 @@
   "id": 1159079117, 
   "name": "association", 
   "prefix": "wof", 
-  "description": "A string value (eg: `us-house` or `state-house`) that indicates the legislative body a constituency is grouped with, to explicately state and to disambiguate when a "level" of `wof:constituency` has multiple chambers. See also `wof:constituency`.", 
+  "description": "A string value (eg: `us-house` or `state-house`) that indicates the legislative body a constituency is grouped with, to explicately state and to disambiguate when a 'level' of `wof:constituency` has multiple chambers. See also `wof:constituency`.", 
   "type": "string"
 }
