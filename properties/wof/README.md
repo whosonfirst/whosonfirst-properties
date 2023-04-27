@@ -12,7 +12,7 @@ A two-letter country code from ISO 3166.
 
 ## association
 
-A string value (eg: `us-house` or `state-house`) that indicates the legislative body a constituency is grouped with, to explicately state and to disambiguate when a "level" of `wof:constituency` has multiple chambers. See also `wof:constituency`.
+A string value (eg: `us-house` or `state-house`) that indicates the legislative body a constituency is grouped with, to explicately state and to disambiguate when a 'level' of `wof:constituency` has multiple chambers. See also `wof:constituency`.
 
 ## belongsto
 
