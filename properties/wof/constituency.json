@@ -2,6 +2,6 @@
   "id": 1159079119, 
   "name": "constituency", 
   "prefix": "wof", 
-  "description": "", 
+  "description": "A `wof:placetype` string value that indicates the relevant administrative hiearchy the consituancey is loosely linked to (eg: `country` for national-level legislative districts or `region` for state-level legislative districts). See also `wof:association`.", 
   "type": "string"
 }
