@@ -10,6 +10,10 @@ A two-letter country code from ISO 3166.
 
 **IMPORTANT: THIS PROPERTY HAS BEEN DEPRECATED.** It will not be removed in the short-term but nor will it be updated to added to any new or existing records. Please use `shortcode` or [label:{lang}_x_preferred_shortcode](labels.md#lang_x_preferred_shortcode) instead.
 
+## association
+
+A string value (eg: `us-house` or `state-house`) that indicates the legislative body a constituency is grouped with, to explicately state and to disambiguate when a "level" of `wof:constituency` has multiple chambers. See also `wof:constituency`.
+
 ## belongsto
 
 The (unique) set of all ancestors, as an array (list) of WOF IDs.
@@ -37,6 +41,10 @@ A hash containing identifiers from other data sources. See also: [other people's
 ## concordances_alt
 
 A dictionary of lists, used if a record has more than one identifier for a single data source. Contains identifiers not present in the `wof:concordances` property.
+
+## constituency
+
+A `wof:placetype` string value that indicates the relevant administrative hiearchy the consituancey is loosely linked to (eg: `country` for national-level legislative districts or `region` for state-level legislative districts). See also `wof:association`.
 
 ## controlled
 
