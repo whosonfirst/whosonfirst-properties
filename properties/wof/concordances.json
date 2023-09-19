@@ -5,11 +5,53 @@
     "description": "A hash containing identifiers from other data sources.",
     "type": "dictionary",
     "properties": {
+        "austriaod:number": {
+            "type": "string"
+        },
+        "ausstat:area_code": {
+            "type": "string"
+        },
+        "begov:niscode": {
+            "type": "string"
+        },
+        "bra-ibge:code": {
+            "type": "string"
+        },
+        "chgov:number": {
+            "type": "string"
+        },
+        "de-bkg:id": {
+            "type": "string"
+        },
+        "digitalenvoy:region_code": {
+            "type": "integer"
+        },
+        "dk-geodk:code": {
+            "type": "string"
+        },
+        "ee-mamt:code": {
+            "type": "string"
+        },
+        "eg:gisco_id": {
+            "type": "string"
+        },
+        "eurostat:nuts_2021_id": {
+            "type": "string"
+        },
+        "fips:code": {
+            "type": "string"
+        },
         "gn:id": {
             "type": "integer"
         },
         "gp:id": {
             "type": "integer"
+        },
+        "hasc:id": {
+            "type": "string"
+        },
+        "iso:id": {
+            "type": "string"
         },
         "loc:id": {
             "type": "string"
@@ -19,6 +61,12 @@
         },
         "qs_pg:id": {
             "type": "integer"
+        },
+        "unlc:id": {
+            "type": "string"
+        },
+        "uscensus:geoid": {
+            "type": "string"
         },
         "wd:id": {
             "type": "string"
