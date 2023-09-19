@@ -1,0 +1,10 @@
+{
+    "id": 1880439613,
+    "name": "concordances_x_official",
+    "prefix": "wof",
+    "description": "One or more concordance keys. These represent the concordance key(s) for officially recognized identifiers for the sources of the corresponding WOF record.",
+    "type": "list",
+    "items": {
+        "type": "string"
+    }
+}
