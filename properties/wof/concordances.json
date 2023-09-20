@@ -17,6 +17,9 @@
         "bra-ibge:code": {
             "type": "string"
         },
+        "cbsnl:gm_code": {
+            "type": "string"
+        },
         "chgov:number": {
             "type": "string"
         },
@@ -35,10 +38,25 @@
         "eg:gisco_id": {
             "type": "string"
         },
+        "esp-ine:code": {
+            "type": "string"
+        },
         "eurostat:nuts_2021_id": {
             "type": "string"
         },
+        "figov:code": {
+            "type": "string"
+        },
         "fips:code": {
+            "type": "string"
+        },
+        "fra-insee:code": {
+            "type": "string"
+        },
+        "frgov:epci_code": {
+            "type": "string"
+        },
+        "gbr-ons:gss_code": {
             "type": "string"
         },
         "gn:id": {
@@ -53,7 +71,16 @@
         "iso:id": {
             "type": "string"
         },
+        "ita-istat:code": {
+            "type": "string"
+        },
         "loc:id": {
+            "type": "string"
+        },
+        "no-geonorge:kommunenum": {
+            "type": "string"
+        },
+        "pol-gus:terc_code_qualified": {
             "type": "string"
         },
         "qs:id": {
@@ -61,6 +88,12 @@
         },
         "qs_pg:id": {
             "type": "integer"
+        },
+        "se-lant:distrkod": {
+            "type": "string"
+        },
+        "svn-sma:id": {
+            "type": "string"
         },
         "unlc:id": {
             "type": "string"
