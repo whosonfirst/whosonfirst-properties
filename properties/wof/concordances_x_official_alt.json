@@ -1,8 +1,8 @@
 {
     "id": 1880452329,
-    "name": "concordances_x_official_alt",
+    "name": "concordances_official_alt",
     "prefix": "wof",
-    "description": "A list of one or more concordance keys, used if a record has more than one official identifier from a single data source or multiple data sources. These represent alternate concordance key(s) for officially recognized identifiers for the sources of the corresponding WOF record. Contains identifiers not present in the wof:concordances_x_official property. The concordance key is composed of a WOF source prefix, : delimiter, and source's identifier name, for example 'uscensus:geoid'.",
+    "description": "A list of one or more concordance keys, used if a record has more than one official identifier from a single data source or multiple data sources. These represent alternate concordance key(s) for officially recognized identifiers for the sources of the corresponding WOF record. Contains identifiers not present in the `wof:concordances_official` property. The concordance key is composed of a WOF source prefix, : delimiter, and source's identifier name, for example 'uscensus:geoid'.",
     "type": "list",
     "items": {
         "type": "string"
