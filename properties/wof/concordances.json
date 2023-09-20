@@ -2,7 +2,7 @@
     "id": 1158807939,
     "name": "concordances",
     "prefix": "wof",
-    "description": "A hash containing identifiers from other data sources.",
+    "description": "A hash containing identifiers from other data sources. The concordance key is composed of a WOF source prefix, : delimiter, and source's identifier name, for example 'uscensus:geoid'.",
     "type": "dictionary",
     "properties": {
         "austriaod:number": {
