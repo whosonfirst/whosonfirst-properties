@@ -17,7 +17,7 @@
         "bra-ibge:code": {
             "type": "string"
         },
-        "cbsnl:gm_code": {
+        "cbsnl:code": {
             "type": "string"
         },
         "chgov:number": {
@@ -32,7 +32,7 @@
         "dk-geodk:code": {
             "type": "string"
         },
-        "ee-mamt:code": {
+        "ee-mamt:okood": {
             "type": "string"
         },
         "eg:gisco_id": {
@@ -48,6 +48,9 @@
             "type": "string"
         },
         "fips:code": {
+            "type": "string"
+        },
+        "fra-insee:code": {
             "type": "string"
         },
         "fra-insee:code": {
@@ -77,10 +80,19 @@
         "loc:id": {
             "type": "string"
         },
-        "no-geonorge:kommunenum": {
+        "meso:local_id": {
             "type": "string"
         },
-        "pol-gus:terc_code_qualified": {
+        "no-geonorge:number": {
+            "type": "string"
+        },
+        "nz-linz:id": {
+            "type": "string"
+        },
+        "pol-gus:terc_code": {
+            "type": "string"
+        },
+        "qs:local_id": {
             "type": "string"
         },
         "qs:id": {
@@ -89,7 +101,7 @@
         "qs_pg:id": {
             "type": "integer"
         },
-        "se-lant:distrkod": {
+        "se-lant:code": {
             "type": "string"
         },
         "svn-sma:id": {
