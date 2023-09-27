@@ -1,0 +1,7 @@
+{
+    "id": 1880439613,
+    "name": "concordances_official",
+    "prefix": "wof",
+    "description": "One concordance key (not value). These represent the concordance key for officially recognized identifiers for the sources of the corresponding WOF record, and is used to lookup the value from the wof:concordances property list. A national statistical agency ID is preferred to facilitate demographic data joins. The concordance key is composed of a WOF source prefix, : delimiter, and source's identifier name, for example 'uscensus:geoid'.",
+    "type": "string"
+}

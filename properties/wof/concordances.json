@@ -2,16 +2,94 @@
     "id": 1158807939,
     "name": "concordances",
     "prefix": "wof",
-    "description": "A hash containing identifiers from other data sources.",
+    "description": "A hash containing identifiers from other data sources. The concordance key is composed of a WOF source prefix, : delimiter, and source's identifier name, for example 'uscensus:geoid'. The concordance value is set to the source's unique identifier value for the place.",
     "type": "dictionary",
     "properties": {
+        "austriaod:number": {
+            "type": "string"
+        },
+        "ausstat:area_code": {
+            "type": "string"
+        },
+        "begov:niscode": {
+            "type": "string"
+        },
+        "bra-ibge:code": {
+            "type": "string"
+        },
+        "cbsnl:code": {
+            "type": "string"
+        },
+        "chgov:number": {
+            "type": "string"
+        },
+        "de-bkg:id": {
+            "type": "string"
+        },
+        "digitalenvoy:region_code": {
+            "type": "integer"
+        },
+        "dk-geodk:code": {
+            "type": "string"
+        },
+        "ee-mamt:okood": {
+            "type": "string"
+        },
+        "eg:gisco_id": {
+            "type": "string"
+        },
+        "esp-ine:code": {
+            "type": "string"
+        },
+        "eurostat:nuts_2021_id": {
+            "type": "string"
+        },
+        "figov:code": {
+            "type": "string"
+        },
+        "fips:code": {
+            "type": "string"
+        },
+        "fra-insee:code": {
+            "type": "string"
+        },
+        "frgov:epci_code": {
+            "type": "string"
+        },
+        "gbr-ons:gss_code": {
+            "type": "string"
+        },
         "gn:id": {
             "type": "integer"
         },
         "gp:id": {
             "type": "integer"
         },
+        "hasc:id": {
+            "type": "string"
+        },
+        "iso:id": {
+            "type": "string"
+        },
+        "ita-istat:code": {
+            "type": "string"
+        },
         "loc:id": {
+            "type": "string"
+        },
+        "meso:local_id": {
+            "type": "string"
+        },
+        "no-geonorge:number": {
+            "type": "string"
+        },
+        "nz-linz:id": {
+            "type": "string"
+        },
+        "pol-gus:terc_code": {
+            "type": "string"
+        },
+        "qs:local_id": {
             "type": "string"
         },
         "qs:id": {
@@ -19,6 +97,18 @@
         },
         "qs_pg:id": {
             "type": "integer"
+        },
+        "se-lant:code": {
+            "type": "string"
+        },
+        "svn-sma:id": {
+            "type": "string"
+        },
+        "unlc:id": {
+            "type": "string"
+        },
+        "uscensus:geoid": {
+            "type": "string"
         },
         "wd:id": {
             "type": "string"
