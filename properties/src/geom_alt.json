@@ -2,7 +2,7 @@
     "id": 1158804527,
     "name": "geom_alt",
     "prefix": "src",
-    "description": "The data source of a record's geometry. Valid property values are listed in the whosonfirst-sources repository.",
+    "description": "The data sources of a record's optional alternate geometries, which can be used to construct file names to those geometries, like: `{id}-alt-{source}-{extras}.geojson` where {source} is required and {extras} is optional. See also `src:alt_label`. Valid property values are listed in the whosonfirst-sources repository.",
     "type": "list",
     "items": {
         "type": "string"
