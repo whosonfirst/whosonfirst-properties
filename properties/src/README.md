@@ -2,7 +2,7 @@
 
 ## alt_label
 
-The data source of a record's alternate geometry, in the alternate geometry file's property list. The record's default file property list should use src:geom_alt to list this specific alternate geometry source and any other alternates geometry sources. Valid property values are listed in the [`whosonfirst-sources`](https://github.com/whosonfirst/whosonfirst-sources/tree/master/sources) repository.
+The data source of a record's alternate geometry, in the alternate geometry file's property list. The record's default file property list should use `src:geom_alt` to list this specific alternate geometry source and any other alternates geometry sources. Valid property values are listed in the [`whosonfirst-sources`](https://github.com/whosonfirst/whosonfirst-sources/tree/master/sources) repository.
 
 _Example: `"src:alt_label":"quattroshapes"`_
 
