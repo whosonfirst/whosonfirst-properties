@@ -1,0 +1,7 @@
+{
+  "id": 1930466627, 
+  "name": "population_year", 
+  "prefix": "uscensus", 
+  "description": "DEPRECATED! Use population_date instead.", 
+  "type": "string"
+}
