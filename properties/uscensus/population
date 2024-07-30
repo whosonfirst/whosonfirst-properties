@@ -1,0 +1,7 @@
+{
+  "id": 1930466623, 
+  "name": "population", 
+  "prefix": "uscensus", 
+  "description": "Population value from decenial census or an annual estimate", 
+  "type": "integer"
+}
