@@ -1,0 +1,7 @@
+{
+  "id": 1930466625, 
+  "name": "population_date", 
+  "prefix": "uscensus", 
+  "description": "Date in EDTF format for the population value.", 
+  "type": "string"
+}
