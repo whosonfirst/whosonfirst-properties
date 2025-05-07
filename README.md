@@ -71,5 +71,4 @@ The property value contains a `list` of one or more `string` elements.
 
 ## See also
 
-* https://github.com/whosonfirst/whosonfirst-data/issues/100
-* https://github.com/whosonfirst/go-whosonfirst-properties
+* https://github.com/whosonfirst/whosonfirst-docs
